@@ -1,0 +1,1000 @@
+{"age": 79, "gender": "女", "symptoms": ["呕吐", "恶心", "单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 2, "gender": "女", "symptoms": ["恶心", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 52, "gender": "男", "symptoms": ["心悸"], "diagnosis": "高血压"}
+{"age": 35, "gender": "女", "symptoms": ["畏光", "单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 61, "gender": "女", "symptoms": ["严重乏力", "高热", "肌肉酸痛", "头痛", "寒战"], "diagnosis": "流感"}
+{"age": 32, "gender": "女", "symptoms": ["部分无症状"], "diagnosis": "高血压"}
+{"age": 58, "gender": "男", "symptoms": ["畏光", "单侧搏动性头痛", "畏声", "呕吐", "恶心"], "diagnosis": "偏头痛"}
+{"age": 64, "gender": "女", "symptoms": ["心悸", "部分无症状", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 69, "gender": "女", "symptoms": ["咳嗽", "头痛", "肌肉酸痛", "高热", "寒战", "严重乏力"], "diagnosis": "流感"}
+{"age": 82, "gender": "男", "symptoms": ["打喷嚏", "鼻子痒", "鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 5, "gender": "男", "symptoms": ["腹胀", "胃痛", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 16, "gender": "女", "symptoms": ["寒战"], "diagnosis": "肺炎"}
+{"age": 69, "gender": "男", "symptoms": ["寒战", "严重咳嗽", "咳浓痰", "胸痛"], "diagnosis": "肺炎"}
+{"age": 8, "gender": "女", "symptoms": ["头痛", "高热", "严重乏力", "肌肉酸痛"], "diagnosis": "流感"}
+{"age": 16, "gender": "女", "symptoms": ["咳嗽", "严重乏力"], "diagnosis": "流感"}
+{"age": 1, "gender": "女", "symptoms": ["多饮", "多尿", "乏力", "体重减轻"], "diagnosis": "糖尿病"}
+{"age": 70, "gender": "男", "symptoms": ["呕吐", "单侧搏动性头痛", "畏声", "恶心", "畏光"], "diagnosis": "偏头痛"}
+{"age": 85, "gender": "男", "symptoms": ["呕吐", "单侧搏动性头痛", "恶心", "畏声"], "diagnosis": "偏头痛"}
+{"age": 72, "gender": "女", "symptoms": ["头痛", "咳嗽"], "diagnosis": "感冒"}
+{"age": 11, "gender": "女", "symptoms": ["畏声", "畏光", "恶心", "单侧搏动性头痛", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 36, "gender": "男", "symptoms": ["咳嗽", "发热"], "diagnosis": "感冒"}
+{"age": 20, "gender": "男", "symptoms": ["喉咙痛"], "diagnosis": "感冒"}
+{"age": 61, "gender": "女", "symptoms": ["畏光"], "diagnosis": "偏头痛"}
+{"age": 44, "gender": "女", "symptoms": ["气喘", "持续咳嗽", "胸闷", "喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 21, "gender": "女", "symptoms": ["咳痰"], "diagnosis": "支气管炎"}
+{"age": 77, "gender": "男", "symptoms": ["畏声", "单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 30, "gender": "女", "symptoms": ["流鼻涕", "喉咙痛"], "diagnosis": "感冒"}
+{"age": 39, "gender": "女", "symptoms": ["体重减轻"], "diagnosis": "糖尿病"}
+{"age": 80, "gender": "男", "symptoms": ["腹胀"], "diagnosis": "急性胃炎"}
+{"age": 70, "gender": "男", "symptoms": ["高热", "胸痛", "呼吸困难", "寒战"], "diagnosis": "肺炎"}
+{"age": 27, "gender": "女", "symptoms": ["气喘"], "diagnosis": "支气管炎"}
+{"age": 78, "gender": "女", "symptoms": ["肌肉酸痛", "头痛", "寒战", "严重乏力", "高热"], "diagnosis": "流感"}
+{"age": 26, "gender": "女", "symptoms": ["咳嗽", "发热", "喉咙痛", "轻微乏力"], "diagnosis": "感冒"}
+{"age": 16, "gender": "男", "symptoms": ["颈项板紧"], "diagnosis": "高血压"}
+{"age": 72, "gender": "男", "symptoms": ["单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 23, "gender": "男", "symptoms": ["胸闷", "咳痰", "持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 77, "gender": "男", "symptoms": ["脱屑", "水疱", "瘙痒", "红肿"], "diagnosis": "皮肤过敏"}
+{"age": 35, "gender": "男", "symptoms": ["颈项板紧", "头痛", "部分无症状", "头晕"], "diagnosis": "高血压"}
+{"age": 30, "gender": "女", "symptoms": ["多饮", "多尿", "乏力", "体重减轻"], "diagnosis": "糖尿病"}
+{"age": 11, "gender": "女", "symptoms": ["严重咳嗽", "寒战"], "diagnosis": "肺炎"}
+{"age": 46, "gender": "男", "symptoms": ["头痛", "严重乏力", "高热", "咳嗽"], "diagnosis": "流感"}
+{"age": 31, "gender": "男", "symptoms": ["乏力"], "diagnosis": "糖尿病"}
+{"age": 27, "gender": "女", "symptoms": ["体重减轻", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 36, "gender": "男", "symptoms": ["头晕", "心悸", "部分无症状"], "diagnosis": "高血压"}
+{"age": 29, "gender": "男", "symptoms": ["水疱", "瘙痒", "红肿"], "diagnosis": "皮肤过敏"}
+{"age": 22, "gender": "女", "symptoms": ["视力模糊", "多尿", "体重减轻", "多食"], "diagnosis": "糖尿病"}
+{"age": 41, "gender": "男", "symptoms": ["单侧搏动性头痛", "畏光", "呕吐", "畏声", "恶心"], "diagnosis": "偏头痛"}
+{"age": 54, "gender": "男", "symptoms": ["呼吸困难", "严重咳嗽", "咳浓痰"], "diagnosis": "肺炎"}
+{"age": 20, "gender": "女", "symptoms": ["喉咙痛", "咳嗽", "头痛", "流鼻涕", "轻微乏力"], "diagnosis": "感冒"}
+{"age": 86, "gender": "女", "symptoms": ["头晕"], "diagnosis": "高血压"}
+{"age": 58, "gender": "男", "symptoms": ["轻微乏力", "头痛", "发热", "咳嗽", "喉咙痛"], "diagnosis": "感冒"}
+{"age": 41, "gender": "男", "symptoms": ["轻微乏力", "头痛", "发热", "喉咙痛", "流鼻涕"], "diagnosis": "感冒"}
+{"age": 24, "gender": "男", "symptoms": ["恶心"], "diagnosis": "偏头痛"}
+{"age": 3, "gender": "女", "symptoms": ["多尿", "体重减轻", "乏力", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 45, "gender": "男", "symptoms": ["头痛", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 25, "gender": "女", "symptoms": ["脱屑"], "diagnosis": "皮肤过敏"}
+{"age": 23, "gender": "女", "symptoms": ["皮疹"], "diagnosis": "皮肤过敏"}
+{"age": 24, "gender": "男", "symptoms": ["高热", "严重乏力", "寒战", "肌肉酸痛", "头痛"], "diagnosis": "流感"}
+{"age": 77, "gender": "男", "symptoms": ["发热", "流鼻涕"], "diagnosis": "感冒"}
+{"age": 34, "gender": "女", "symptoms": ["高热", "寒战", "呼吸困难", "咳浓痰"], "diagnosis": "肺炎"}
+{"age": 87, "gender": "女", "symptoms": ["头痛", "头晕", "部分无症状", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 29, "gender": "男", "symptoms": ["流鼻涕"], "diagnosis": "感冒"}
+{"age": 77, "gender": "男", "symptoms": ["体重减轻", "视力模糊", "乏力", "多食"], "diagnosis": "糖尿病"}
+{"age": 78, "gender": "女", "symptoms": ["部分无症状", "心悸", "头痛", "头晕", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 42, "gender": "男", "symptoms": ["畏声", "恶心"], "diagnosis": "偏头痛"}
+{"age": 78, "gender": "女", "symptoms": ["胸闷", "气喘", "咳痰", "持续咳嗽", "喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 2, "gender": "男", "symptoms": ["气喘", "喉咙不适", "咳痰", "持续咳嗽", "胸闷"], "diagnosis": "支气管炎"}
+{"age": 27, "gender": "女", "symptoms": ["肌肉酸痛"], "diagnosis": "流感"}
+{"age": 38, "gender": "女", "symptoms": ["脱屑", "皮疹", "瘙痒", "红肿"], "diagnosis": "皮肤过敏"}
+{"age": 54, "gender": "女", "symptoms": ["水疱", "脱屑", "红肿"], "diagnosis": "皮肤过敏"}
+{"age": 53, "gender": "男", "symptoms": ["颈项板紧", "头痛", "心悸", "部分无症状", "头晕"], "diagnosis": "高血压"}
+{"age": 58, "gender": "女", "symptoms": ["颈项板紧", "头晕", "头痛", "部分无症状", "心悸"], "diagnosis": "高血压"}
+{"age": 27, "gender": "男", "symptoms": ["咳痰", "持续咳嗽", "喉咙不适", "胸闷", "气喘"], "diagnosis": "支气管炎"}
+{"age": 79, "gender": "女", "symptoms": ["寒战", "肌肉酸痛"], "diagnosis": "流感"}
+{"age": 78, "gender": "女", "symptoms": ["严重咳嗽", "胸痛", "呼吸困难", "寒战", "高热"], "diagnosis": "肺炎"}
+{"age": 45, "gender": "男", "symptoms": ["呕吐", "畏光"], "diagnosis": "偏头痛"}
+{"age": 47, "gender": "女", "symptoms": ["红肿"], "diagnosis": "皮肤过敏"}
+{"age": 1, "gender": "男", "symptoms": ["鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 90, "gender": "女", "symptoms": ["咳嗽", "寒战", "头痛", "高热", "肌肉酸痛", "严重乏力"], "diagnosis": "流感"}
+{"age": 86, "gender": "女", "symptoms": ["皮疹", "水疱"], "diagnosis": "皮肤过敏"}
+{"age": 28, "gender": "男", "symptoms": ["皮疹", "瘙痒", "红肿", "脱屑"], "diagnosis": "皮肤过敏"}
+{"age": 13, "gender": "女", "symptoms": ["咳嗽", "寒战", "严重乏力", "高热"], "diagnosis": "流感"}
+{"age": 78, "gender": "男", "symptoms": ["头晕", "心悸", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 21, "gender": "女", "symptoms": ["喉咙痛", "咳嗽", "流鼻涕"], "diagnosis": "感冒"}
+{"age": 53, "gender": "男", "symptoms": ["乏力", "体重减轻", "多饮", "多尿"], "diagnosis": "糖尿病"}
+{"age": 75, "gender": "女", "symptoms": ["瘙痒", "水疱", "脱屑", "皮疹"], "diagnosis": "皮肤过敏"}
+{"age": 29, "gender": "女", "symptoms": ["畏光", "恶心", "畏声"], "diagnosis": "偏头痛"}
+{"age": 53, "gender": "男", "symptoms": ["头痛", "咳嗽"], "diagnosis": "流感"}
+{"age": 4, "gender": "女", "symptoms": ["单侧搏动性头痛", "恶心", "呕吐", "畏光", "畏声"], "diagnosis": "偏头痛"}
+{"age": 59, "gender": "女", "symptoms": ["瘙痒", "水疱", "红肿", "脱屑"], "diagnosis": "皮肤过敏"}
+{"age": 39, "gender": "男", "symptoms": ["头痛", "肌肉酸痛"], "diagnosis": "流感"}
+{"age": 25, "gender": "女", "symptoms": ["视力模糊"], "diagnosis": "糖尿病"}
+{"age": 63, "gender": "女", "symptoms": ["严重咳嗽", "呼吸困难", "高热", "胸痛"], "diagnosis": "肺炎"}
+{"age": 44, "gender": "女", "symptoms": ["心悸", "部分无症状", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 35, "gender": "男", "symptoms": ["高热", "咳嗽", "头痛", "寒战", "肌肉酸痛"], "diagnosis": "流感"}
+{"age": 34, "gender": "男", "symptoms": ["气喘", "咳痰", "胸闷", "持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 38, "gender": "男", "symptoms": ["视力模糊", "体重减轻", "多食", "多尿"], "diagnosis": "糖尿病"}
+{"age": 63, "gender": "男", "symptoms": ["眼睛痒", "流鼻涕", "打喷嚏", "鼻子痒", "鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 78, "gender": "女", "symptoms": ["多尿", "视力模糊", "乏力", "多食", "体重减轻", "多饮"], "diagnosis": "糖尿病"}
+{"age": 29, "gender": "男", "symptoms": ["头痛", "流鼻涕"], "diagnosis": "感冒"}
+{"age": 53, "gender": "男", "symptoms": ["头痛", "部分无症状"], "diagnosis": "高血压"}
+{"age": 73, "gender": "男", "symptoms": ["喉咙痛", "发热", "流鼻涕"], "diagnosis": "感冒"}
+{"age": 41, "gender": "女", "symptoms": ["鼻子痒", "打喷嚏", "眼睛痒", "流鼻涕", "鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 12, "gender": "女", "symptoms": ["脱屑", "皮疹", "瘙痒", "红肿"], "diagnosis": "皮肤过敏"}
+{"age": 20, "gender": "男", "symptoms": ["食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 10, "gender": "女", "symptoms": ["腹胀", "恶心", "胃痛", "呕吐", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 68, "gender": "女", "symptoms": ["高热"], "diagnosis": "肺炎"}
+{"age": 35, "gender": "男", "symptoms": ["恶心", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 26, "gender": "女", "symptoms": ["乏力", "多食", "视力模糊", "多饮", "体重减轻"], "diagnosis": "糖尿病"}
+{"age": 38, "gender": "男", "symptoms": ["胸痛", "严重咳嗽", "寒战", "呼吸困难", "高热"], "diagnosis": "肺炎"}
+{"age": 28, "gender": "男", "symptoms": ["乏力", "多饮", "视力模糊", "多尿", "多食"], "diagnosis": "糖尿病"}
+{"age": 85, "gender": "男", "symptoms": ["瘙痒", "红肿", "水疱", "皮疹", "脱屑"], "diagnosis": "皮肤过敏"}
+{"age": 47, "gender": "女", "symptoms": ["食欲不振", "胃痛", "恶心", "腹胀"], "diagnosis": "急性胃炎"}
+{"age": 30, "gender": "女", "symptoms": ["高热", "严重乏力", "肌肉酸痛", "寒战", "头痛", "咳嗽"], "diagnosis": "流感"}
+{"age": 86, "gender": "女", "symptoms": ["气喘", "喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 87, "gender": "女", "symptoms": ["鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 32, "gender": "女", "symptoms": ["红肿", "脱屑", "瘙痒", "皮疹", "水疱"], "diagnosis": "皮肤过敏"}
+{"age": 45, "gender": "女", "symptoms": ["呼吸困难", "寒战"], "diagnosis": "肺炎"}
+{"age": 45, "gender": "男", "symptoms": ["严重咳嗽", "呼吸困难", "咳浓痰", "胸痛", "高热", "寒战"], "diagnosis": "肺炎"}
+{"age": 37, "gender": "男", "symptoms": ["皮疹", "脱屑", "瘙痒", "水疱"], "diagnosis": "皮肤过敏"}
+{"age": 60, "gender": "男", "symptoms": ["视力模糊", "乏力", "多饮", "多食", "多尿", "体重减轻"], "diagnosis": "糖尿病"}
+{"age": 64, "gender": "女", "symptoms": ["胃痛"], "diagnosis": "急性胃炎"}
+{"age": 29, "gender": "女", "symptoms": ["心悸", "头晕", "部分无症状", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 75, "gender": "男", "symptoms": ["腹胀", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 20, "gender": "男", "symptoms": ["严重咳嗽", "寒战", "呼吸困难", "高热", "胸痛", "咳浓痰"], "diagnosis": "肺炎"}
+{"age": 20, "gender": "女", "symptoms": ["鼻子痒", "眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 76, "gender": "男", "symptoms": ["头痛", "心悸"], "diagnosis": "高血压"}
+{"age": 33, "gender": "男", "symptoms": ["畏声", "畏光", "单侧搏动性头痛", "恶心", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 12, "gender": "男", "symptoms": ["咳浓痰", "严重咳嗽", "高热", "呼吸困难", "寒战", "胸痛"], "diagnosis": "肺炎"}
+{"age": 74, "gender": "女", "symptoms": ["食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 11, "gender": "女", "symptoms": ["呕吐", "畏声"], "diagnosis": "偏头痛"}
+{"age": 58, "gender": "男", "symptoms": ["胃痛", "腹胀", "恶心", "食欲不振", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 14, "gender": "女", "symptoms": ["恶心", "畏光", "畏声", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 58, "gender": "女", "symptoms": ["多尿", "多饮", "多食"], "diagnosis": "糖尿病"}
+{"age": 24, "gender": "女", "symptoms": ["脱屑"], "diagnosis": "皮肤过敏"}
+{"age": 69, "gender": "女", "symptoms": ["水疱", "脱屑", "瘙痒", "皮疹"], "diagnosis": "皮肤过敏"}
+{"age": 89, "gender": "女", "symptoms": ["头痛", "咳嗽", "高热"], "diagnosis": "流感"}
+{"age": 29, "gender": "男", "symptoms": ["乏力", "体重减轻", "多饮", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 50, "gender": "男", "symptoms": ["心悸", "颈项板紧", "部分无症状", "头晕"], "diagnosis": "高血压"}
+{"age": 48, "gender": "男", "symptoms": ["鼻塞", "流鼻涕", "鼻子痒", "打喷嚏"], "diagnosis": "过敏性鼻炎"}
+{"age": 84, "gender": "男", "symptoms": ["寒战", "高热", "胸痛", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 24, "gender": "男", "symptoms": ["多食", "多尿", "视力模糊", "乏力", "多饮", "体重减轻"], "diagnosis": "糖尿病"}
+{"age": 13, "gender": "男", "symptoms": ["畏声", "呕吐", "畏光", "恶心"], "diagnosis": "偏头痛"}
+{"age": 36, "gender": "男", "symptoms": ["部分无症状", "头晕", "颈项板紧", "头痛"], "diagnosis": "高血压"}
+{"age": 15, "gender": "男", "symptoms": ["呕吐", "腹胀"], "diagnosis": "急性胃炎"}
+{"age": 87, "gender": "男", "symptoms": ["部分无症状", "头晕", "头痛"], "diagnosis": "高血压"}
+{"age": 82, "gender": "男", "symptoms": ["高热", "寒战"], "diagnosis": "肺炎"}
+{"age": 87, "gender": "女", "symptoms": ["打喷嚏", "眼睛痒", "鼻塞", "流鼻涕", "鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 74, "gender": "女", "symptoms": ["脱屑", "红肿", "瘙痒", "水疱"], "diagnosis": "皮肤过敏"}
+{"age": 26, "gender": "女", "symptoms": ["呕吐", "腹胀", "恶心", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 50, "gender": "男", "symptoms": ["喉咙痛", "流鼻涕", "发热", "轻微乏力", "咳嗽", "头痛"], "diagnosis": "感冒"}
+{"age": 27, "gender": "女", "symptoms": ["腹胀", "食欲不振", "胃痛", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 66, "gender": "女", "symptoms": ["水疱", "脱屑"], "diagnosis": "皮肤过敏"}
+{"age": 76, "gender": "男", "symptoms": ["严重咳嗽", "寒战", "胸痛"], "diagnosis": "肺炎"}
+{"age": 10, "gender": "男", "symptoms": ["瘙痒", "脱屑", "水疱", "红肿"], "diagnosis": "皮肤过敏"}
+{"age": 24, "gender": "女", "symptoms": ["体重减轻", "多尿", "视力模糊", "多食", "多饮"], "diagnosis": "糖尿病"}
+{"age": 30, "gender": "女", "symptoms": ["胸闷", "气喘", "持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 79, "gender": "女", "symptoms": ["头晕", "头痛", "心悸", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 8, "gender": "女", "symptoms": ["打喷嚏", "流鼻涕", "鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 73, "gender": "女", "symptoms": ["视力模糊", "多尿", "体重减轻", "乏力", "多饮", "多食"], "diagnosis": "糖尿病"}
+{"age": 25, "gender": "女", "symptoms": ["气喘", "胸闷", "喉咙不适", "持续咳嗽", "咳痰"], "diagnosis": "支气管炎"}
+{"age": 34, "gender": "男", "symptoms": ["胸闷", "咳痰", "喉咙不适", "持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 42, "gender": "男", "symptoms": ["寒战", "高热", "咳嗽", "头痛", "严重乏力", "肌肉酸痛"], "diagnosis": "流感"}
+{"age": 63, "gender": "女", "symptoms": ["多食", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 8, "gender": "男", "symptoms": ["高热", "寒战"], "diagnosis": "肺炎"}
+{"age": 74, "gender": "男", "symptoms": ["高热"], "diagnosis": "肺炎"}
+{"age": 27, "gender": "女", "symptoms": ["寒战", "高热", "呼吸困难", "咳浓痰"], "diagnosis": "肺炎"}
+{"age": 88, "gender": "女", "symptoms": ["寒战", "高热", "严重咳嗽", "咳浓痰", "胸痛"], "diagnosis": "肺炎"}
+{"age": 65, "gender": "女", "symptoms": ["眼睛痒", "流鼻涕", "鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 46, "gender": "男", "symptoms": ["多饮", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 76, "gender": "女", "symptoms": ["打喷嚏", "鼻子痒", "眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 40, "gender": "女", "symptoms": ["流鼻涕", "头痛", "发热"], "diagnosis": "感冒"}
+{"age": 75, "gender": "男", "symptoms": ["畏声", "恶心", "单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 86, "gender": "女", "symptoms": ["畏声", "恶心", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 41, "gender": "男", "symptoms": ["流鼻涕", "鼻子痒", "打喷嚏", "眼睛痒", "鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 66, "gender": "男", "symptoms": ["眼睛痒", "鼻塞", "流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 45, "gender": "女", "symptoms": ["视力模糊", "多食"], "diagnosis": "糖尿病"}
+{"age": 11, "gender": "女", "symptoms": ["恶心", "畏光", "单侧搏动性头痛", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 29, "gender": "男", "symptoms": ["头痛", "心悸", "部分无症状", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 32, "gender": "男", "symptoms": ["胸闷"], "diagnosis": "支气管炎"}
+{"age": 51, "gender": "男", "symptoms": ["水疱", "脱屑", "皮疹", "瘙痒", "红肿"], "diagnosis": "皮肤过敏"}
+{"age": 46, "gender": "男", "symptoms": ["流鼻涕", "眼睛痒", "鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 38, "gender": "男", "symptoms": ["乏力"], "diagnosis": "糖尿病"}
+{"age": 53, "gender": "女", "symptoms": ["颈项板紧", "心悸", "头晕"], "diagnosis": "高血压"}
+{"age": 54, "gender": "男", "symptoms": ["体重减轻", "多饮", "视力模糊", "多尿", "乏力", "多食"], "diagnosis": "糖尿病"}
+{"age": 30, "gender": "男", "symptoms": ["持续咳嗽", "喉咙不适", "胸闷", "咳痰", "气喘"], "diagnosis": "支气管炎"}
+{"age": 77, "gender": "男", "symptoms": ["畏声", "单侧搏动性头痛", "呕吐", "恶心", "畏光"], "diagnosis": "偏头痛"}
+{"age": 47, "gender": "男", "symptoms": ["单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 67, "gender": "男", "symptoms": ["食欲不振", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 10, "gender": "女", "symptoms": ["咳嗽", "头痛", "高热", "严重乏力"], "diagnosis": "流感"}
+{"age": 67, "gender": "女", "symptoms": ["高热", "头痛", "肌肉酸痛", "严重乏力", "寒战"], "diagnosis": "流感"}
+{"age": 26, "gender": "男", "symptoms": ["体重减轻", "多尿", "视力模糊", "多食", "乏力"], "diagnosis": "糖尿病"}
+{"age": 30, "gender": "男", "symptoms": ["眼睛痒", "鼻塞", "鼻子痒", "流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 17, "gender": "男", "symptoms": ["严重乏力", "咳嗽", "高热", "头痛"], "diagnosis": "流感"}
+{"age": 38, "gender": "女", "symptoms": ["胃痛", "食欲不振", "腹胀", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 43, "gender": "男", "symptoms": ["胸闷", "喉咙不适", "咳痰", "气喘", "持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 45, "gender": "男", "symptoms": ["脱屑", "红肿", "瘙痒"], "diagnosis": "皮肤过敏"}
+{"age": 31, "gender": "男", "symptoms": ["食欲不振", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 14, "gender": "男", "symptoms": ["咳嗽", "喉咙痛", "发热", "头痛", "轻微乏力"], "diagnosis": "感冒"}
+{"age": 41, "gender": "男", "symptoms": ["皮疹"], "diagnosis": "皮肤过敏"}
+{"age": 40, "gender": "男", "symptoms": ["呕吐"], "diagnosis": "偏头痛"}
+{"age": 83, "gender": "女", "symptoms": ["喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 75, "gender": "女", "symptoms": ["胸痛"], "diagnosis": "肺炎"}
+{"age": 6, "gender": "女", "symptoms": ["瘙痒"], "diagnosis": "皮肤过敏"}
+{"age": 54, "gender": "女", "symptoms": ["寒战", "高热", "严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 85, "gender": "男", "symptoms": ["红肿"], "diagnosis": "皮肤过敏"}
+{"age": 64, "gender": "女", "symptoms": ["咳嗽", "轻微乏力", "喉咙痛", "头痛", "发热", "流鼻涕"], "diagnosis": "感冒"}
+{"age": 38, "gender": "女", "symptoms": ["眼睛痒", "流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 39, "gender": "男", "symptoms": ["咳嗽", "肌肉酸痛"], "diagnosis": "流感"}
+{"age": 67, "gender": "女", "symptoms": ["咳浓痰", "胸痛", "呼吸困难", "高热", "严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 36, "gender": "女", "symptoms": ["头痛", "心悸", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 85, "gender": "男", "symptoms": ["呼吸困难", "胸痛", "高热", "严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 78, "gender": "女", "symptoms": ["高热", "严重咳嗽", "寒战", "咳浓痰"], "diagnosis": "肺炎"}
+{"age": 79, "gender": "男", "symptoms": ["颈项板紧", "头痛", "心悸", "部分无症状", "头晕"], "diagnosis": "高血压"}
+{"age": 57, "gender": "女", "symptoms": ["呕吐", "恶心", "单侧搏动性头痛", "畏光", "畏声"], "diagnosis": "偏头痛"}
+{"age": 10, "gender": "男", "symptoms": ["头痛", "严重乏力"], "diagnosis": "流感"}
+{"age": 81, "gender": "女", "symptoms": ["食欲不振", "恶心", "呕吐", "胃痛", "腹胀"], "diagnosis": "急性胃炎"}
+{"age": 52, "gender": "男", "symptoms": ["鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 14, "gender": "女", "symptoms": ["心悸", "部分无症状", "颈项板紧", "头晕"], "diagnosis": "高血压"}
+{"age": 74, "gender": "男", "symptoms": ["红肿", "水疱", "脱屑", "皮疹"], "diagnosis": "皮肤过敏"}
+{"age": 48, "gender": "女", "symptoms": ["皮疹", "瘙痒", "水疱", "红肿", "脱屑"], "diagnosis": "皮肤过敏"}
+{"age": 22, "gender": "女", "symptoms": ["颈项板紧", "部分无症状"], "diagnosis": "高血压"}
+{"age": 70, "gender": "男", "symptoms": ["鼻塞", "打喷嚏", "眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 45, "gender": "女", "symptoms": ["视力模糊", "多饮", "多尿"], "diagnosis": "糖尿病"}
+{"age": 34, "gender": "女", "symptoms": ["头晕", "颈项板紧", "心悸"], "diagnosis": "高血压"}
+{"age": 68, "gender": "女", "symptoms": ["咳浓痰", "高热", "严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 37, "gender": "男", "symptoms": ["气喘"], "diagnosis": "支气管炎"}
+{"age": 22, "gender": "男", "symptoms": ["恶心", "食欲不振", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 65, "gender": "女", "symptoms": ["体重减轻", "乏力"], "diagnosis": "糖尿病"}
+{"age": 72, "gender": "女", "symptoms": ["恶心", "食欲不振", "呕吐", "胃痛", "腹胀"], "diagnosis": "急性胃炎"}
+{"age": 46, "gender": "男", "symptoms": ["喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 40, "gender": "男", "symptoms": ["红肿", "水疱", "瘙痒"], "diagnosis": "皮肤过敏"}
+{"age": 23, "gender": "男", "symptoms": ["恶心", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 23, "gender": "男", "symptoms": ["高热", "寒战", "严重乏力", "咳嗽", "肌肉酸痛"], "diagnosis": "流感"}
+{"age": 26, "gender": "男", "symptoms": ["严重乏力", "高热", "肌肉酸痛", "头痛"], "diagnosis": "流感"}
+{"age": 35, "gender": "男", "symptoms": ["多尿", "视力模糊", "多饮"], "diagnosis": "糖尿病"}
+{"age": 57, "gender": "女", "symptoms": ["胃痛", "呕吐", "恶心", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 63, "gender": "男", "symptoms": ["腹胀", "呕吐", "胃痛", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 4, "gender": "男", "symptoms": ["单侧搏动性头痛", "畏光"], "diagnosis": "偏头痛"}
+{"age": 63, "gender": "男", "symptoms": ["视力模糊", "多食", "体重减轻", "多尿", "多饮"], "diagnosis": "糖尿病"}
+{"age": 14, "gender": "女", "symptoms": ["畏声", "畏光", "单侧搏动性头痛", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 10, "gender": "男", "symptoms": ["体重减轻", "多尿", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 8, "gender": "女", "symptoms": ["恶心", "畏光", "单侧搏动性头痛", "呕吐", "畏声"], "diagnosis": "偏头痛"}
+{"age": 52, "gender": "男", "symptoms": ["多饮", "乏力", "多食", "多尿", "视力模糊", "体重减轻"], "diagnosis": "糖尿病"}
+{"age": 73, "gender": "男", "symptoms": ["恶心", "单侧搏动性头痛", "畏声", "畏光", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 45, "gender": "女", "symptoms": ["头痛", "肌肉酸痛", "高热"], "diagnosis": "流感"}
+{"age": 30, "gender": "女", "symptoms": ["多饮", "乏力", "体重减轻", "视力模糊", "多尿", "多食"], "diagnosis": "糖尿病"}
+{"age": 45, "gender": "男", "symptoms": ["单侧搏动性头痛", "恶心", "畏光", "畏声", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 88, "gender": "女", "symptoms": ["咳嗽", "头痛"], "diagnosis": "感冒"}
+{"age": 65, "gender": "女", "symptoms": ["部分无症状", "头痛", "心悸"], "diagnosis": "高血压"}
+{"age": 63, "gender": "男", "symptoms": ["多饮", "乏力"], "diagnosis": "糖尿病"}
+{"age": 7, "gender": "女", "symptoms": ["发热", "流鼻涕", "头痛"], "diagnosis": "感冒"}
+{"age": 76, "gender": "女", "symptoms": ["流鼻涕"], "diagnosis": "感冒"}
+{"age": 70, "gender": "女", "symptoms": ["流鼻涕", "头痛"], "diagnosis": "感冒"}
+{"age": 22, "gender": "男", "symptoms": ["头痛", "头晕", "部分无症状", "心悸", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 89, "gender": "女", "symptoms": ["头痛", "头晕", "心悸", "颈项板紧", "部分无症状"], "diagnosis": "高血压"}
+{"age": 39, "gender": "女", "symptoms": ["胃痛", "恶心", "呕吐", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 54, "gender": "男", "symptoms": ["心悸", "部分无症状", "头晕"], "diagnosis": "高血压"}
+{"age": 40, "gender": "女", "symptoms": ["高热", "寒战", "咳浓痰", "胸痛", "呼吸困难", "严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 35, "gender": "女", "symptoms": ["瘙痒", "水疱", "皮疹"], "diagnosis": "皮肤过敏"}
+{"age": 52, "gender": "男", "symptoms": ["多食", "体重减轻", "多尿", "视力模糊", "多饮", "乏力"], "diagnosis": "糖尿病"}
+{"age": 82, "gender": "男", "symptoms": ["多饮"], "diagnosis": "糖尿病"}
+{"age": 32, "gender": "女", "symptoms": ["胃痛", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 72, "gender": "女", "symptoms": ["颈项板紧", "头痛", "头晕", "心悸"], "diagnosis": "高血压"}
+{"age": 63, "gender": "女", "symptoms": ["严重咳嗽", "咳浓痰", "寒战"], "diagnosis": "肺炎"}
+{"age": 60, "gender": "女", "symptoms": ["呕吐", "畏光", "畏声", "恶心", "单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 51, "gender": "女", "symptoms": ["食欲不振", "腹胀", "呕吐", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 57, "gender": "女", "symptoms": ["多饮", "乏力", "多食", "多尿", "视力模糊", "体重减轻"], "diagnosis": "糖尿病"}
+{"age": 39, "gender": "女", "symptoms": ["发热", "流鼻涕", "轻微乏力", "头痛"], "diagnosis": "感冒"}
+{"age": 26, "gender": "女", "symptoms": ["发热", "咳嗽", "喉咙痛", "头痛"], "diagnosis": "感冒"}
+{"age": 14, "gender": "女", "symptoms": ["恶心", "畏声", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 12, "gender": "女", "symptoms": ["胸痛", "严重咳嗽", "高热", "咳浓痰", "呼吸困难", "寒战"], "diagnosis": "肺炎"}
+{"age": 38, "gender": "女", "symptoms": ["打喷嚏"], "diagnosis": "过敏性鼻炎"}
+{"age": 48, "gender": "女", "symptoms": ["寒战", "咳浓痰", "呼吸困难", "高热"], "diagnosis": "肺炎"}
+{"age": 57, "gender": "男", "symptoms": ["寒战", "呼吸困难", "高热", "严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 78, "gender": "女", "symptoms": ["高热", "咳嗽"], "diagnosis": "流感"}
+{"age": 5, "gender": "女", "symptoms": ["胸痛", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 63, "gender": "男", "symptoms": ["呕吐", "腹胀", "食欲不振", "恶心", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 65, "gender": "女", "symptoms": ["食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 32, "gender": "男", "symptoms": ["呕吐", "胃痛", "腹胀", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 90, "gender": "男", "symptoms": ["畏光", "恶心", "畏声", "呕吐", "单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 19, "gender": "男", "symptoms": ["咳嗽", "严重乏力", "头痛", "高热", "肌肉酸痛", "寒战"], "diagnosis": "流感"}
+{"age": 81, "gender": "女", "symptoms": ["寒战", "胸痛", "咳浓痰", "高热", "呼吸困难", "严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 37, "gender": "女", "symptoms": ["胸闷"], "diagnosis": "支气管炎"}
+{"age": 68, "gender": "女", "symptoms": ["腹胀", "食欲不振", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 26, "gender": "男", "symptoms": ["呕吐", "畏声", "恶心"], "diagnosis": "偏头痛"}
+{"age": 21, "gender": "男", "symptoms": ["喉咙不适", "气喘", "咳痰"], "diagnosis": "支气管炎"}
+{"age": 19, "gender": "女", "symptoms": ["恶心", "呕吐", "畏光", "单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 11, "gender": "女", "symptoms": ["鼻子痒", "打喷嚏", "流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 76, "gender": "女", "symptoms": ["头痛"], "diagnosis": "流感"}
+{"age": 42, "gender": "男", "symptoms": ["胸闷", "喉咙不适", "持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 10, "gender": "女", "symptoms": ["打喷嚏", "鼻塞", "流鼻涕", "鼻子痒", "眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 64, "gender": "女", "symptoms": ["打喷嚏", "流鼻涕", "鼻塞", "眼睛痒", "鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 41, "gender": "女", "symptoms": ["寒战", "高热", "头痛", "咳嗽", "肌肉酸痛"], "diagnosis": "流感"}
+{"age": 6, "gender": "男", "symptoms": ["颈项板紧", "头痛", "头晕"], "diagnosis": "高血压"}
+{"age": 87, "gender": "男", "symptoms": ["胃痛"], "diagnosis": "急性胃炎"}
+{"age": 76, "gender": "男", "symptoms": ["食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 81, "gender": "女", "symptoms": ["咳嗽", "高热", "严重乏力", "肌肉酸痛", "头痛"], "diagnosis": "流感"}
+{"age": 63, "gender": "女", "symptoms": ["胸痛", "咳浓痰"], "diagnosis": "肺炎"}
+{"age": 32, "gender": "男", "symptoms": ["呼吸困难", "寒战"], "diagnosis": "肺炎"}
+{"age": 69, "gender": "男", "symptoms": ["视力模糊", "乏力", "多饮", "体重减轻", "多食"], "diagnosis": "糖尿病"}
+{"age": 87, "gender": "男", "symptoms": ["瘙痒", "红肿", "脱屑", "水疱"], "diagnosis": "皮肤过敏"}
+{"age": 75, "gender": "男", "symptoms": ["水疱", "皮疹", "瘙痒", "红肿", "脱屑"], "diagnosis": "皮肤过敏"}
+{"age": 33, "gender": "女", "symptoms": ["气喘", "咳痰"], "diagnosis": "支气管炎"}
+{"age": 1, "gender": "男", "symptoms": ["心悸"], "diagnosis": "高血压"}
+{"age": 30, "gender": "女", "symptoms": ["高热", "严重乏力"], "diagnosis": "流感"}
+{"age": 86, "gender": "男", "symptoms": ["严重乏力", "高热"], "diagnosis": "流感"}
+{"age": 90, "gender": "女", "symptoms": ["头痛", "高热"], "diagnosis": "流感"}
+{"age": 83, "gender": "女", "symptoms": ["严重咳嗽", "高热", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 22, "gender": "男", "symptoms": ["畏声", "畏光", "恶心", "单侧搏动性头痛", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 56, "gender": "女", "symptoms": ["皮疹", "红肿", "瘙痒"], "diagnosis": "皮肤过敏"}
+{"age": 23, "gender": "男", "symptoms": ["鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 16, "gender": "女", "symptoms": ["头晕", "颈项板紧", "头痛"], "diagnosis": "高血压"}
+{"age": 15, "gender": "女", "symptoms": ["咳嗽", "流鼻涕", "头痛", "发热", "喉咙痛"], "diagnosis": "感冒"}
+{"age": 41, "gender": "男", "symptoms": ["打喷嚏", "鼻塞", "鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 14, "gender": "女", "symptoms": ["畏声", "恶心", "呕吐", "单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 84, "gender": "女", "symptoms": ["头痛", "严重乏力", "高热"], "diagnosis": "流感"}
+{"age": 65, "gender": "男", "symptoms": ["乏力", "多饮", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 29, "gender": "女", "symptoms": ["鼻子痒", "流鼻涕", "打喷嚏", "眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 87, "gender": "女", "symptoms": ["颈项板紧"], "diagnosis": "高血压"}
+{"age": 36, "gender": "男", "symptoms": ["咳嗽", "寒战", "头痛", "严重乏力", "高热", "肌肉酸痛"], "diagnosis": "流感"}
+{"age": 22, "gender": "女", "symptoms": ["头痛", "头晕", "部分无症状", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 12, "gender": "男", "symptoms": ["胸闷", "咳痰"], "diagnosis": "支气管炎"}
+{"age": 35, "gender": "女", "symptoms": ["打喷嚏", "鼻塞", "眼睛痒", "流鼻涕", "鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 50, "gender": "男", "symptoms": ["水疱", "红肿"], "diagnosis": "皮肤过敏"}
+{"age": 13, "gender": "男", "symptoms": ["头痛", "头晕", "部分无症状", "颈项板紧", "心悸"], "diagnosis": "高血压"}
+{"age": 46, "gender": "女", "symptoms": ["持续咳嗽", "喉咙不适", "咳痰"], "diagnosis": "支气管炎"}
+{"age": 20, "gender": "男", "symptoms": ["发热", "喉咙痛", "头痛", "流鼻涕", "咳嗽", "轻微乏力"], "diagnosis": "感冒"}
+{"age": 37, "gender": "女", "symptoms": ["流鼻涕", "打喷嚏", "鼻子痒", "鼻塞", "眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 14, "gender": "男", "symptoms": ["呼吸困难", "严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 2, "gender": "男", "symptoms": ["部分无症状", "颈项板紧", "头晕"], "diagnosis": "高血压"}
+{"age": 4, "gender": "男", "symptoms": ["咳痰", "喉咙不适", "持续咳嗽", "气喘", "胸闷"], "diagnosis": "支气管炎"}
+{"age": 29, "gender": "女", "symptoms": ["持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 39, "gender": "男", "symptoms": ["胃痛", "食欲不振", "腹胀"], "diagnosis": "急性胃炎"}
+{"age": 48, "gender": "女", "symptoms": ["胃痛", "恶心", "呕吐", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 18, "gender": "男", "symptoms": ["流鼻涕", "眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 86, "gender": "女", "symptoms": ["鼻塞", "眼睛痒", "流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 35, "gender": "女", "symptoms": ["寒战", "严重咳嗽", "呼吸困难", "咳浓痰", "胸痛"], "diagnosis": "肺炎"}
+{"age": 15, "gender": "男", "symptoms": ["鼻塞", "眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 57, "gender": "男", "symptoms": ["咳嗽", "发热", "流鼻涕", "头痛", "轻微乏力", "喉咙痛"], "diagnosis": "感冒"}
+{"age": 67, "gender": "女", "symptoms": ["恶心"], "diagnosis": "急性胃炎"}
+{"age": 86, "gender": "男", "symptoms": ["腹胀", "呕吐", "恶心", "胃痛", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 86, "gender": "男", "symptoms": ["呼吸困难", "严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 86, "gender": "女", "symptoms": ["咳痰", "气喘", "胸闷", "喉咙不适", "持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 13, "gender": "女", "symptoms": ["胸闷", "咳痰", "气喘", "喉咙不适", "持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 47, "gender": "男", "symptoms": ["视力模糊", "体重减轻", "乏力", "多食", "多饮", "多尿"], "diagnosis": "糖尿病"}
+{"age": 69, "gender": "男", "symptoms": ["气喘"], "diagnosis": "支气管炎"}
+{"age": 78, "gender": "女", "symptoms": ["流鼻涕", "发热", "轻微乏力"], "diagnosis": "感冒"}
+{"age": 13, "gender": "女", "symptoms": ["乏力"], "diagnosis": "糖尿病"}
+{"age": 37, "gender": "男", "symptoms": ["咳痰", "喉咙不适", "气喘", "胸闷"], "diagnosis": "支气管炎"}
+{"age": 66, "gender": "女", "symptoms": ["高热"], "diagnosis": "流感"}
+{"age": 44, "gender": "男", "symptoms": ["打喷嚏", "鼻子痒", "流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 75, "gender": "女", "symptoms": ["畏声"], "diagnosis": "偏头痛"}
+{"age": 83, "gender": "男", "symptoms": ["恶心", "腹胀", "食欲不振", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 44, "gender": "男", "symptoms": ["食欲不振", "呕吐", "腹胀"], "diagnosis": "急性胃炎"}
+{"age": 66, "gender": "男", "symptoms": ["恶心"], "diagnosis": "偏头痛"}
+{"age": 49, "gender": "女", "symptoms": ["瘙痒", "红肿", "水疱"], "diagnosis": "皮肤过敏"}
+{"age": 8, "gender": "女", "symptoms": ["腹胀", "恶心", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 81, "gender": "女", "symptoms": ["畏光", "恶心"], "diagnosis": "偏头痛"}
+{"age": 34, "gender": "女", "symptoms": ["头痛"], "diagnosis": "流感"}
+{"age": 45, "gender": "女", "symptoms": ["持续咳嗽", "胸闷", "咳痰"], "diagnosis": "支气管炎"}
+{"age": 25, "gender": "女", "symptoms": ["轻微乏力", "喉咙痛", "发热", "流鼻涕", "咳嗽"], "diagnosis": "感冒"}
+{"age": 21, "gender": "男", "symptoms": ["脱屑", "红肿", "瘙痒", "皮疹"], "diagnosis": "皮肤过敏"}
+{"age": 57, "gender": "男", "symptoms": ["视力模糊", "多尿"], "diagnosis": "糖尿病"}
+{"age": 52, "gender": "男", "symptoms": ["体重减轻", "多尿", "多食", "多饮", "乏力", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 55, "gender": "男", "symptoms": ["单侧搏动性头痛", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 19, "gender": "女", "symptoms": ["食欲不振", "恶心", "胃痛", "腹胀"], "diagnosis": "急性胃炎"}
+{"age": 31, "gender": "女", "symptoms": ["肌肉酸痛"], "diagnosis": "流感"}
+{"age": 76, "gender": "女", "symptoms": ["流鼻涕", "轻微乏力"], "diagnosis": "感冒"}
+{"age": 2, "gender": "女", "symptoms": ["鼻子痒", "鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 81, "gender": "女", "symptoms": ["流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 53, "gender": "男", "symptoms": ["流鼻涕", "头痛", "轻微乏力", "喉咙痛", "发热"], "diagnosis": "感冒"}
+{"age": 1, "gender": "男", "symptoms": ["部分无症状", "颈项板紧", "头晕"], "diagnosis": "高血压"}
+{"age": 25, "gender": "女", "symptoms": ["喉咙痛", "轻微乏力"], "diagnosis": "感冒"}
+{"age": 69, "gender": "女", "symptoms": ["红肿", "瘙痒", "皮疹", "脱屑", "水疱"], "diagnosis": "皮肤过敏"}
+{"age": 35, "gender": "男", "symptoms": ["眼睛痒", "打喷嚏", "流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 45, "gender": "女", "symptoms": ["寒战"], "diagnosis": "流感"}
+{"age": 86, "gender": "女", "symptoms": ["严重咳嗽", "胸痛", "寒战"], "diagnosis": "肺炎"}
+{"age": 81, "gender": "男", "symptoms": ["水疱", "脱屑", "皮疹", "瘙痒"], "diagnosis": "皮肤过敏"}
+{"age": 80, "gender": "女", "symptoms": ["畏声", "单侧搏动性头痛", "呕吐", "恶心"], "diagnosis": "偏头痛"}
+{"age": 82, "gender": "女", "symptoms": ["严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 75, "gender": "女", "symptoms": ["喉咙痛"], "diagnosis": "感冒"}
+{"age": 16, "gender": "男", "symptoms": ["恶心", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 82, "gender": "男", "symptoms": ["恶心"], "diagnosis": "急性胃炎"}
+{"age": 26, "gender": "男", "symptoms": ["流鼻涕", "轻微乏力"], "diagnosis": "感冒"}
+{"age": 7, "gender": "女", "symptoms": ["乏力", "体重减轻", "多尿", "多饮"], "diagnosis": "糖尿病"}
+{"age": 75, "gender": "男", "symptoms": ["喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 73, "gender": "女", "symptoms": ["恶心", "呕吐", "腹胀", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 88, "gender": "男", "symptoms": ["寒战", "咳浓痰", "严重咳嗽", "胸痛", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 80, "gender": "女", "symptoms": ["畏声", "畏光", "单侧搏动性头痛", "恶心", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 6, "gender": "女", "symptoms": ["胸闷", "咳痰", "持续咳嗽", "气喘", "喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 10, "gender": "男", "symptoms": ["多尿", "多食", "体重减轻", "多饮"], "diagnosis": "糖尿病"}
+{"age": 7, "gender": "男", "symptoms": ["喉咙痛"], "diagnosis": "感冒"}
+{"age": 82, "gender": "女", "symptoms": ["高热"], "diagnosis": "流感"}
+{"age": 54, "gender": "女", "symptoms": ["恶心", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 37, "gender": "男", "symptoms": ["头痛", "肌肉酸痛", "咳嗽"], "diagnosis": "流感"}
+{"age": 52, "gender": "女", "symptoms": ["部分无症状", "心悸"], "diagnosis": "高血压"}
+{"age": 56, "gender": "男", "symptoms": ["气喘", "喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 42, "gender": "男", "symptoms": ["腹胀", "恶心", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 5, "gender": "男", "symptoms": ["咳浓痰", "严重咳嗽", "胸痛", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 52, "gender": "男", "symptoms": ["头痛", "头晕", "心悸"], "diagnosis": "高血压"}
+{"age": 48, "gender": "女", "symptoms": ["颈项板紧", "头痛", "心悸", "部分无症状", "头晕"], "diagnosis": "高血压"}
+{"age": 70, "gender": "男", "symptoms": ["体重减轻", "视力模糊", "多食", "乏力", "多尿", "多饮"], "diagnosis": "糖尿病"}
+{"age": 41, "gender": "女", "symptoms": ["呕吐", "胃痛", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 54, "gender": "女", "symptoms": ["呕吐"], "diagnosis": "急性胃炎"}
+{"age": 86, "gender": "女", "symptoms": ["畏声", "呕吐", "畏光"], "diagnosis": "偏头痛"}
+{"age": 49, "gender": "男", "symptoms": ["脱屑"], "diagnosis": "皮肤过敏"}
+{"age": 62, "gender": "女", "symptoms": ["胃痛", "腹胀", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 83, "gender": "男", "symptoms": ["眼睛痒", "鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 31, "gender": "男", "symptoms": ["食欲不振", "胃痛", "腹胀"], "diagnosis": "急性胃炎"}
+{"age": 16, "gender": "女", "symptoms": ["头痛"], "diagnosis": "流感"}
+{"age": 68, "gender": "男", "symptoms": ["高热"], "diagnosis": "流感"}
+{"age": 48, "gender": "女", "symptoms": ["呕吐", "食欲不振", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 18, "gender": "男", "symptoms": ["咳浓痰", "胸痛", "呼吸困难", "高热", "寒战"], "diagnosis": "肺炎"}
+{"age": 59, "gender": "男", "symptoms": ["瘙痒", "脱屑", "水疱"], "diagnosis": "皮肤过敏"}
+{"age": 30, "gender": "男", "symptoms": ["头痛"], "diagnosis": "高血压"}
+{"age": 14, "gender": "女", "symptoms": ["视力模糊"], "diagnosis": "糖尿病"}
+{"age": 80, "gender": "女", "symptoms": ["食欲不振", "腹胀", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 30, "gender": "男", "symptoms": ["咳嗽", "喉咙痛", "轻微乏力"], "diagnosis": "感冒"}
+{"age": 33, "gender": "女", "symptoms": ["咳痰", "持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 32, "gender": "男", "symptoms": ["高热", "严重乏力", "寒战"], "diagnosis": "流感"}
+{"age": 3, "gender": "男", "symptoms": ["高热", "头痛", "肌肉酸痛", "寒战"], "diagnosis": "流感"}
+{"age": 22, "gender": "女", "symptoms": ["高热", "严重咳嗽", "寒战", "胸痛", "咳浓痰"], "diagnosis": "肺炎"}
+{"age": 17, "gender": "女", "symptoms": ["头痛", "高热", "咳嗽"], "diagnosis": "流感"}
+{"age": 67, "gender": "女", "symptoms": ["胃痛", "腹胀"], "diagnosis": "急性胃炎"}
+{"age": 89, "gender": "女", "symptoms": ["喉咙不适", "胸闷", "持续咳嗽", "气喘", "咳痰"], "diagnosis": "支气管炎"}
+{"age": 47, "gender": "女", "symptoms": ["体重减轻", "多饮", "视力模糊", "多尿", "多食", "乏力"], "diagnosis": "糖尿病"}
+{"age": 9, "gender": "女", "symptoms": ["气喘", "胸闷", "持续咳嗽", "咳痰"], "diagnosis": "支气管炎"}
+{"age": 62, "gender": "男", "symptoms": ["红肿", "皮疹", "脱屑", "水疱"], "diagnosis": "皮肤过敏"}
+{"age": 82, "gender": "女", "symptoms": ["头晕", "颈项板紧", "心悸"], "diagnosis": "高血压"}
+{"age": 44, "gender": "女", "symptoms": ["呕吐", "畏声", "单侧搏动性头痛", "畏光"], "diagnosis": "偏头痛"}
+{"age": 19, "gender": "男", "symptoms": ["胃痛", "呕吐", "食欲不振", "腹胀"], "diagnosis": "急性胃炎"}
+{"age": 23, "gender": "女", "symptoms": ["严重咳嗽", "寒战", "呼吸困难", "胸痛"], "diagnosis": "肺炎"}
+{"age": 79, "gender": "男", "symptoms": ["咳痰", "喉咙不适", "持续咳嗽", "胸闷"], "diagnosis": "支气管炎"}
+{"age": 84, "gender": "女", "symptoms": ["鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 30, "gender": "女", "symptoms": ["体重减轻", "多饮", "多食", "乏力", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 14, "gender": "男", "symptoms": ["咳浓痰", "严重咳嗽", "高热", "呼吸困难", "寒战", "胸痛"], "diagnosis": "肺炎"}
+{"age": 40, "gender": "女", "symptoms": ["部分无症状", "头痛", "颈项板紧", "心悸", "头晕"], "diagnosis": "高血压"}
+{"age": 50, "gender": "男", "symptoms": ["食欲不振", "呕吐", "恶心", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 45, "gender": "男", "symptoms": ["部分无症状", "头晕", "头痛", "颈项板紧", "心悸"], "diagnosis": "高血压"}
+{"age": 34, "gender": "女", "symptoms": ["心悸", "部分无症状", "颈项板紧", "头晕"], "diagnosis": "高血压"}
+{"age": 42, "gender": "女", "symptoms": ["头晕", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 27, "gender": "女", "symptoms": ["肌肉酸痛", "头痛", "寒战", "严重乏力"], "diagnosis": "流感"}
+{"age": 4, "gender": "男", "symptoms": ["眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 38, "gender": "男", "symptoms": ["胸闷", "咳痰", "喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 8, "gender": "女", "symptoms": ["高热"], "diagnosis": "肺炎"}
+{"age": 41, "gender": "女", "symptoms": ["胸痛"], "diagnosis": "肺炎"}
+{"age": 59, "gender": "女", "symptoms": ["腹胀", "恶心", "胃痛", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 36, "gender": "女", "symptoms": ["眼睛痒", "打喷嚏", "流鼻涕", "鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 53, "gender": "男", "symptoms": ["肌肉酸痛"], "diagnosis": "流感"}
+{"age": 18, "gender": "男", "symptoms": ["高热"], "diagnosis": "肺炎"}
+{"age": 7, "gender": "男", "symptoms": ["腹胀", "食欲不振", "呕吐", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 68, "gender": "男", "symptoms": ["胸痛", "咳浓痰", "严重咳嗽", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 81, "gender": "女", "symptoms": ["高热"], "diagnosis": "肺炎"}
+{"age": 11, "gender": "女", "symptoms": ["多饮"], "diagnosis": "糖尿病"}
+{"age": 21, "gender": "男", "symptoms": ["乏力", "多食"], "diagnosis": "糖尿病"}
+{"age": 27, "gender": "女", "symptoms": ["瘙痒", "红肿"], "diagnosis": "皮肤过敏"}
+{"age": 3, "gender": "男", "symptoms": ["乏力"], "diagnosis": "糖尿病"}
+{"age": 35, "gender": "男", "symptoms": ["恶心", "食欲不振", "腹胀", "呕吐", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 53, "gender": "男", "symptoms": ["轻微乏力", "流鼻涕", "发热", "头痛", "咳嗽", "喉咙痛"], "diagnosis": "感冒"}
+{"age": 3, "gender": "女", "symptoms": ["寒战", "严重乏力", "头痛"], "diagnosis": "流感"}
+{"age": 72, "gender": "男", "symptoms": ["严重咳嗽", "咳浓痰", "呼吸困难", "胸痛", "寒战", "高热"], "diagnosis": "肺炎"}
+{"age": 56, "gender": "男", "symptoms": ["打喷嚏", "流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 50, "gender": "女", "symptoms": ["单侧搏动性头痛", "畏光"], "diagnosis": "偏头痛"}
+{"age": 37, "gender": "男", "symptoms": ["脱屑", "皮疹", "红肿", "瘙痒"], "diagnosis": "皮肤过敏"}
+{"age": 56, "gender": "男", "symptoms": ["严重咳嗽", "呼吸困难", "高热"], "diagnosis": "肺炎"}
+{"age": 36, "gender": "女", "symptoms": ["打喷嚏"], "diagnosis": "过敏性鼻炎"}
+{"age": 40, "gender": "女", "symptoms": ["恶心"], "diagnosis": "偏头痛"}
+{"age": 41, "gender": "女", "symptoms": ["胸痛", "呼吸困难", "寒战", "严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 37, "gender": "女", "symptoms": ["鼻子痒", "眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 43, "gender": "男", "symptoms": ["喉咙不适", "胸闷", "持续咳嗽", "咳痰", "气喘"], "diagnosis": "支气管炎"}
+{"age": 44, "gender": "男", "symptoms": ["恶心", "食欲不振", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 69, "gender": "女", "symptoms": ["水疱", "脱屑"], "diagnosis": "皮肤过敏"}
+{"age": 6, "gender": "男", "symptoms": ["食欲不振", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 13, "gender": "男", "symptoms": ["咳嗽", "严重乏力", "高热", "头痛", "肌肉酸痛", "寒战"], "diagnosis": "流感"}
+{"age": 84, "gender": "女", "symptoms": ["部分无症状", "心悸", "头痛", "头晕", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 70, "gender": "男", "symptoms": ["持续咳嗽", "气喘", "喉咙不适", "咳痰", "胸闷"], "diagnosis": "支气管炎"}
+{"age": 24, "gender": "女", "symptoms": ["恶心", "食欲不振", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 20, "gender": "男", "symptoms": ["头痛", "头晕", "部分无症状", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 67, "gender": "女", "symptoms": ["呼吸困难", "寒战"], "diagnosis": "肺炎"}
+{"age": 66, "gender": "女", "symptoms": ["头痛", "颈项板紧", "头晕", "心悸", "部分无症状"], "diagnosis": "高血压"}
+{"age": 19, "gender": "女", "symptoms": ["胃痛"], "diagnosis": "急性胃炎"}
+{"age": 1, "gender": "女", "symptoms": ["打喷嚏", "鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 84, "gender": "女", "symptoms": ["轻微乏力", "流鼻涕", "头痛", "咳嗽", "喉咙痛"], "diagnosis": "感冒"}
+{"age": 47, "gender": "男", "symptoms": ["乏力", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 79, "gender": "女", "symptoms": ["部分无症状"], "diagnosis": "高血压"}
+{"age": 56, "gender": "女", "symptoms": ["多食", "乏力", "视力模糊", "多饮", "多尿"], "diagnosis": "糖尿病"}
+{"age": 54, "gender": "女", "symptoms": ["寒战", "高热", "肌肉酸痛", "咳嗽", "头痛"], "diagnosis": "流感"}
+{"age": 10, "gender": "男", "symptoms": ["多食", "乏力"], "diagnosis": "糖尿病"}
+{"age": 24, "gender": "女", "symptoms": ["寒战", "咳浓痰"], "diagnosis": "肺炎"}
+{"age": 84, "gender": "女", "symptoms": ["水疱"], "diagnosis": "皮肤过敏"}
+{"age": 35, "gender": "女", "symptoms": ["多饮"], "diagnosis": "糖尿病"}
+{"age": 1, "gender": "女", "symptoms": ["咳浓痰", "胸痛", "高热"], "diagnosis": "肺炎"}
+{"age": 50, "gender": "女", "symptoms": ["鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 55, "gender": "女", "symptoms": ["持续咳嗽", "咳痰", "喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 46, "gender": "女", "symptoms": ["体重减轻", "多饮", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 1, "gender": "男", "symptoms": ["头痛", "发热"], "diagnosis": "感冒"}
+{"age": 5, "gender": "女", "symptoms": ["恶心", "腹胀", "食欲不振", "胃痛", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 55, "gender": "男", "symptoms": ["食欲不振", "恶心", "腹胀", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 47, "gender": "男", "symptoms": ["食欲不振", "呕吐", "恶心", "腹胀"], "diagnosis": "急性胃炎"}
+{"age": 34, "gender": "女", "symptoms": ["红肿"], "diagnosis": "皮肤过敏"}
+{"age": 62, "gender": "女", "symptoms": ["体重减轻", "多食", "多尿", "多饮", "乏力"], "diagnosis": "糖尿病"}
+{"age": 31, "gender": "男", "symptoms": ["红肿", "皮疹", "水疱"], "diagnosis": "皮肤过敏"}
+{"age": 40, "gender": "男", "symptoms": ["鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 2, "gender": "男", "symptoms": ["咳痰", "持续咳嗽", "喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 89, "gender": "男", "symptoms": ["轻微乏力", "咳嗽", "头痛"], "diagnosis": "感冒"}
+{"age": 87, "gender": "男", "symptoms": ["鼻塞", "打喷嚏", "鼻子痒", "流鼻涕", "眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 30, "gender": "女", "symptoms": ["头痛"], "diagnosis": "感冒"}
+{"age": 80, "gender": "男", "symptoms": ["皮疹", "红肿", "脱屑", "瘙痒", "水疱"], "diagnosis": "皮肤过敏"}
+{"age": 89, "gender": "男", "symptoms": ["眼睛痒", "鼻塞", "鼻子痒", "打喷嚏"], "diagnosis": "过敏性鼻炎"}
+{"age": 27, "gender": "男", "symptoms": ["心悸", "头晕", "部分无症状"], "diagnosis": "高血压"}
+{"age": 86, "gender": "女", "symptoms": ["头痛", "肌肉酸痛", "高热", "咳嗽", "严重乏力", "寒战"], "diagnosis": "流感"}
+{"age": 47, "gender": "女", "symptoms": ["气喘", "持续咳嗽", "胸闷", "喉咙不适", "咳痰"], "diagnosis": "支气管炎"}
+{"age": 32, "gender": "男", "symptoms": ["视力模糊", "多食", "多饮", "乏力", "体重减轻", "多尿"], "diagnosis": "糖尿病"}
+{"age": 69, "gender": "男", "symptoms": ["畏光", "畏声", "呕吐", "单侧搏动性头痛", "恶心"], "diagnosis": "偏头痛"}
+{"age": 85, "gender": "男", "symptoms": ["水疱"], "diagnosis": "皮肤过敏"}
+{"age": 39, "gender": "女", "symptoms": ["红肿", "脱屑"], "diagnosis": "皮肤过敏"}
+{"age": 60, "gender": "男", "symptoms": ["呕吐", "畏声"], "diagnosis": "偏头痛"}
+{"age": 52, "gender": "男", "symptoms": ["视力模糊"], "diagnosis": "糖尿病"}
+{"age": 87, "gender": "女", "symptoms": ["肌肉酸痛", "寒战", "头痛", "咳嗽", "高热"], "diagnosis": "流感"}
+{"age": 50, "gender": "女", "symptoms": ["流鼻涕", "打喷嚏", "鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 76, "gender": "女", "symptoms": ["单侧搏动性头痛", "畏光", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 11, "gender": "女", "symptoms": ["体重减轻"], "diagnosis": "糖尿病"}
+{"age": 2, "gender": "女", "symptoms": ["畏光", "单侧搏动性头痛", "恶心", "畏声"], "diagnosis": "偏头痛"}
+{"age": 29, "gender": "女", "symptoms": ["多食", "乏力", "体重减轻", "多饮", "视力模糊", "多尿"], "diagnosis": "糖尿病"}
+{"age": 88, "gender": "女", "symptoms": ["轻微乏力", "喉咙痛", "流鼻涕", "头痛"], "diagnosis": "感冒"}
+{"age": 1, "gender": "女", "symptoms": ["呼吸困难", "高热", "胸痛", "寒战", "咳浓痰", "严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 42, "gender": "男", "symptoms": ["喉咙痛", "轻微乏力", "咳嗽"], "diagnosis": "感冒"}
+{"age": 84, "gender": "男", "symptoms": ["部分无症状", "心悸", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 4, "gender": "女", "symptoms": ["胃痛", "呕吐", "食欲不振", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 9, "gender": "男", "symptoms": ["恶心", "单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 24, "gender": "男", "symptoms": ["畏声", "畏光", "单侧搏动性头痛", "恶心"], "diagnosis": "偏头痛"}
+{"age": 3, "gender": "女", "symptoms": ["咳嗽", "头痛", "轻微乏力", "发热", "流鼻涕", "喉咙痛"], "diagnosis": "感冒"}
+{"age": 33, "gender": "男", "symptoms": ["严重咳嗽", "寒战", "咳浓痰", "胸痛", "高热"], "diagnosis": "肺炎"}
+{"age": 70, "gender": "男", "symptoms": ["轻微乏力", "发热", "咳嗽", "喉咙痛"], "diagnosis": "感冒"}
+{"age": 16, "gender": "女", "symptoms": ["头晕", "部分无症状", "心悸", "头痛"], "diagnosis": "高血压"}
+{"age": 11, "gender": "男", "symptoms": ["咳浓痰", "高热", "呼吸困难", "寒战"], "diagnosis": "肺炎"}
+{"age": 60, "gender": "女", "symptoms": ["高热", "严重乏力"], "diagnosis": "流感"}
+{"age": 11, "gender": "女", "symptoms": ["肌肉酸痛"], "diagnosis": "流感"}
+{"age": 26, "gender": "女", "symptoms": ["眼睛痒", "流鼻涕", "打喷嚏", "鼻子痒", "鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 72, "gender": "男", "symptoms": ["视力模糊", "多食", "多尿", "体重减轻"], "diagnosis": "糖尿病"}
+{"age": 58, "gender": "女", "symptoms": ["恶心"], "diagnosis": "偏头痛"}
+{"age": 40, "gender": "女", "symptoms": ["呕吐", "恶心"], "diagnosis": "偏头痛"}
+{"age": 28, "gender": "男", "symptoms": ["流鼻涕", "头痛", "喉咙痛", "发热"], "diagnosis": "感冒"}
+{"age": 8, "gender": "女", "symptoms": ["胸闷"], "diagnosis": "支气管炎"}
+{"age": 25, "gender": "女", "symptoms": ["头晕"], "diagnosis": "高血压"}
+{"age": 19, "gender": "男", "symptoms": ["视力模糊", "多食", "多饮"], "diagnosis": "糖尿病"}
+{"age": 45, "gender": "男", "symptoms": ["多尿", "多食", "体重减轻", "视力模糊", "乏力"], "diagnosis": "糖尿病"}
+{"age": 55, "gender": "男", "symptoms": ["食欲不振", "恶心", "胃痛", "腹胀", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 25, "gender": "女", "symptoms": ["持续咳嗽", "喉咙不适", "胸闷", "气喘"], "diagnosis": "支气管炎"}
+{"age": 68, "gender": "女", "symptoms": ["呼吸困难"], "diagnosis": "肺炎"}
+{"age": 23, "gender": "女", "symptoms": ["胸痛", "寒战", "严重咳嗽", "咳浓痰", "呼吸困难", "高热"], "diagnosis": "肺炎"}
+{"age": 34, "gender": "男", "symptoms": ["流鼻涕", "打喷嚏"], "diagnosis": "过敏性鼻炎"}
+{"age": 90, "gender": "男", "symptoms": ["单侧搏动性头痛", "恶心", "畏光", "畏声", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 12, "gender": "男", "symptoms": ["气喘"], "diagnosis": "支气管炎"}
+{"age": 27, "gender": "女", "symptoms": ["皮疹", "脱屑", "水疱"], "diagnosis": "皮肤过敏"}
+{"age": 69, "gender": "女", "symptoms": ["眼睛痒", "打喷嚏"], "diagnosis": "过敏性鼻炎"}
+{"age": 82, "gender": "男", "symptoms": ["高热"], "diagnosis": "肺炎"}
+{"age": 10, "gender": "女", "symptoms": ["持续咳嗽", "咳痰", "喉咙不适", "胸闷", "气喘"], "diagnosis": "支气管炎"}
+{"age": 72, "gender": "女", "symptoms": ["眼睛痒", "鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 65, "gender": "女", "symptoms": ["恶心", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 26, "gender": "男", "symptoms": ["咳浓痰"], "diagnosis": "肺炎"}
+{"age": 7, "gender": "男", "symptoms": ["寒战", "肌肉酸痛"], "diagnosis": "流感"}
+{"age": 2, "gender": "女", "symptoms": ["高热"], "diagnosis": "肺炎"}
+{"age": 13, "gender": "男", "symptoms": ["流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 56, "gender": "男", "symptoms": ["畏声", "呕吐", "单侧搏动性头痛", "恶心"], "diagnosis": "偏头痛"}
+{"age": 50, "gender": "女", "symptoms": ["脱屑"], "diagnosis": "皮肤过敏"}
+{"age": 6, "gender": "男", "symptoms": ["部分无症状", "心悸", "头晕", "颈项板紧", "头痛"], "diagnosis": "高血压"}
+{"age": 51, "gender": "女", "symptoms": ["部分无症状", "心悸", "头痛", "头晕", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 37, "gender": "女", "symptoms": ["脱屑", "瘙痒", "水疱"], "diagnosis": "皮肤过敏"}
+{"age": 68, "gender": "女", "symptoms": ["眼睛痒", "鼻子痒", "鼻塞", "打喷嚏", "流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 53, "gender": "男", "symptoms": ["鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 81, "gender": "男", "symptoms": ["胃痛", "呕吐", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 26, "gender": "男", "symptoms": ["鼻子痒", "流鼻涕", "鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 11, "gender": "男", "symptoms": ["胸闷", "气喘", "持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 40, "gender": "女", "symptoms": ["流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 42, "gender": "女", "symptoms": ["瘙痒", "红肿", "水疱"], "diagnosis": "皮肤过敏"}
+{"age": 20, "gender": "女", "symptoms": ["寒战", "严重咳嗽", "咳浓痰", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 79, "gender": "男", "symptoms": ["严重咳嗽", "咳浓痰", "胸痛", "呼吸困难", "寒战", "高热"], "diagnosis": "肺炎"}
+{"age": 19, "gender": "男", "symptoms": ["严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 34, "gender": "女", "symptoms": ["食欲不振", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 71, "gender": "女", "symptoms": ["部分无症状"], "diagnosis": "高血压"}
+{"age": 37, "gender": "女", "symptoms": ["食欲不振", "恶心", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 12, "gender": "男", "symptoms": ["呕吐", "腹胀", "恶心", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 6, "gender": "女", "symptoms": ["体重减轻", "多饮", "多尿", "视力模糊", "多食"], "diagnosis": "糖尿病"}
+{"age": 50, "gender": "男", "symptoms": ["颈项板紧", "头痛", "心悸"], "diagnosis": "高血压"}
+{"age": 23, "gender": "女", "symptoms": ["头痛", "肌肉酸痛", "寒战", "高热", "严重乏力", "咳嗽"], "diagnosis": "流感"}
+{"age": 59, "gender": "女", "symptoms": ["呼吸困难"], "diagnosis": "肺炎"}
+{"age": 5, "gender": "女", "symptoms": ["轻微乏力", "发热", "喉咙痛", "头痛", "流鼻涕"], "diagnosis": "感冒"}
+{"age": 61, "gender": "男", "symptoms": ["乏力"], "diagnosis": "糖尿病"}
+{"age": 27, "gender": "男", "symptoms": ["皮疹", "水疱", "脱屑", "瘙痒", "红肿"], "diagnosis": "皮肤过敏"}
+{"age": 34, "gender": "女", "symptoms": ["恶心"], "diagnosis": "急性胃炎"}
+{"age": 17, "gender": "女", "symptoms": ["部分无症状"], "diagnosis": "高血压"}
+{"age": 18, "gender": "男", "symptoms": ["高热"], "diagnosis": "肺炎"}
+{"age": 22, "gender": "男", "symptoms": ["胃痛", "腹胀", "呕吐", "食欲不振", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 41, "gender": "女", "symptoms": ["体重减轻", "视力模糊", "乏力"], "diagnosis": "糖尿病"}
+{"age": 78, "gender": "女", "symptoms": ["视力模糊", "多尿", "乏力", "体重减轻", "多饮", "多食"], "diagnosis": "糖尿病"}
+{"age": 34, "gender": "男", "symptoms": ["流鼻涕"], "diagnosis": "感冒"}
+{"age": 80, "gender": "男", "symptoms": ["头痛", "高热", "严重乏力", "肌肉酸痛", "寒战", "咳嗽"], "diagnosis": "流感"}
+{"age": 47, "gender": "女", "symptoms": ["多尿", "乏力", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 8, "gender": "男", "symptoms": ["单侧搏动性头痛", "畏光", "畏声"], "diagnosis": "偏头痛"}
+{"age": 37, "gender": "男", "symptoms": ["咳痰"], "diagnosis": "支气管炎"}
+{"age": 46, "gender": "男", "symptoms": ["呼吸困难", "寒战", "咳浓痰", "胸痛", "严重咳嗽", "高热"], "diagnosis": "肺炎"}
+{"age": 69, "gender": "女", "symptoms": ["乏力", "多食", "多尿", "多饮", "视力模糊", "体重减轻"], "diagnosis": "糖尿病"}
+{"age": 17, "gender": "男", "symptoms": ["头痛"], "diagnosis": "高血压"}
+{"age": 46, "gender": "男", "symptoms": ["持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 30, "gender": "男", "symptoms": ["咳嗽", "头痛", "流鼻涕", "轻微乏力", "喉咙痛", "发热"], "diagnosis": "感冒"}
+{"age": 87, "gender": "男", "symptoms": ["眼睛痒", "鼻子痒", "打喷嚏", "流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 41, "gender": "男", "symptoms": ["食欲不振", "恶心", "呕吐", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 69, "gender": "女", "symptoms": ["多饮", "多尿", "乏力", "多食", "体重减轻"], "diagnosis": "糖尿病"}
+{"age": 21, "gender": "女", "symptoms": ["头痛", "部分无症状", "颈项板紧", "心悸", "头晕"], "diagnosis": "高血压"}
+{"age": 8, "gender": "女", "symptoms": ["寒战", "严重咳嗽", "高热", "咳浓痰", "胸痛", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 17, "gender": "女", "symptoms": ["畏声", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 32, "gender": "男", "symptoms": ["胸闷", "气喘", "咳痰"], "diagnosis": "支气管炎"}
+{"age": 32, "gender": "女", "symptoms": ["鼻子痒", "鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 58, "gender": "女", "symptoms": ["腹胀", "胃痛", "恶心", "呕吐", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 49, "gender": "女", "symptoms": ["多饮", "视力模糊", "体重减轻", "多尿", "乏力"], "diagnosis": "糖尿病"}
+{"age": 64, "gender": "男", "symptoms": ["眼睛痒", "打喷嚏", "流鼻涕", "鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 71, "gender": "男", "symptoms": ["打喷嚏"], "diagnosis": "过敏性鼻炎"}
+{"age": 64, "gender": "女", "symptoms": ["轻微乏力", "发热"], "diagnosis": "感冒"}
+{"age": 51, "gender": "男", "symptoms": ["高热"], "diagnosis": "流感"}
+{"age": 15, "gender": "女", "symptoms": ["食欲不振", "恶心", "胃痛", "腹胀", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 85, "gender": "男", "symptoms": ["头痛", "流鼻涕"], "diagnosis": "感冒"}
+{"age": 80, "gender": "男", "symptoms": ["肌肉酸痛", "头痛", "寒战", "严重乏力", "高热"], "diagnosis": "流感"}
+{"age": 13, "gender": "男", "symptoms": ["单侧搏动性头痛", "畏声", "呕吐", "恶心", "畏光"], "diagnosis": "偏头痛"}
+{"age": 90, "gender": "男", "symptoms": ["高热", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 58, "gender": "男", "symptoms": ["乏力", "视力模糊", "体重减轻", "多饮", "多食"], "diagnosis": "糖尿病"}
+{"age": 84, "gender": "男", "symptoms": ["流鼻涕", "轻微乏力", "咳嗽"], "diagnosis": "感冒"}
+{"age": 77, "gender": "女", "symptoms": ["腹胀", "胃痛", "呕吐", "恶心", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 75, "gender": "男", "symptoms": ["食欲不振", "胃痛", "恶心", "呕吐", "腹胀"], "diagnosis": "急性胃炎"}
+{"age": 87, "gender": "女", "symptoms": ["严重乏力", "头痛", "肌肉酸痛", "高热", "寒战", "咳嗽"], "diagnosis": "流感"}
+{"age": 31, "gender": "女", "symptoms": ["乏力", "多食"], "diagnosis": "糖尿病"}
+{"age": 33, "gender": "女", "symptoms": ["高热", "咳嗽", "头痛", "严重乏力", "寒战", "肌肉酸痛"], "diagnosis": "流感"}
+{"age": 89, "gender": "女", "symptoms": ["乏力", "体重减轻", "多食", "多饮", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 25, "gender": "男", "symptoms": ["呼吸困难", "胸痛", "咳浓痰", "高热", "寒战", "严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 40, "gender": "男", "symptoms": ["多尿"], "diagnosis": "糖尿病"}
+{"age": 41, "gender": "男", "symptoms": ["高热", "严重乏力", "寒战", "头痛", "咳嗽", "肌肉酸痛"], "diagnosis": "流感"}
+{"age": 25, "gender": "男", "symptoms": ["呕吐", "胃痛", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 8, "gender": "女", "symptoms": ["恶心", "单侧搏动性头痛", "畏声"], "diagnosis": "偏头痛"}
+{"age": 6, "gender": "男", "symptoms": ["食欲不振", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 51, "gender": "男", "symptoms": ["高热", "咳浓痰", "胸痛", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 70, "gender": "男", "symptoms": ["头痛", "轻微乏力", "咳嗽", "流鼻涕"], "diagnosis": "感冒"}
+{"age": 82, "gender": "男", "symptoms": ["气喘", "喉咙不适", "持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 59, "gender": "女", "symptoms": ["高热", "头痛", "严重乏力", "寒战"], "diagnosis": "流感"}
+{"age": 76, "gender": "男", "symptoms": ["咳痰", "持续咳嗽", "气喘", "胸闷", "喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 50, "gender": "女", "symptoms": ["恶心", "畏光"], "diagnosis": "偏头痛"}
+{"age": 79, "gender": "女", "symptoms": ["高热", "严重咳嗽", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 65, "gender": "女", "symptoms": ["心悸", "头痛"], "diagnosis": "高血压"}
+{"age": 38, "gender": "男", "symptoms": ["喉咙痛", "流鼻涕", "发热", "轻微乏力"], "diagnosis": "感冒"}
+{"age": 41, "gender": "男", "symptoms": ["肌肉酸痛", "寒战"], "diagnosis": "流感"}
+{"age": 87, "gender": "女", "symptoms": ["多饮", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 59, "gender": "男", "symptoms": ["肌肉酸痛", "寒战", "头痛", "高热", "严重乏力"], "diagnosis": "流感"}
+{"age": 40, "gender": "女", "symptoms": ["流鼻涕", "发热", "轻微乏力"], "diagnosis": "感冒"}
+{"age": 68, "gender": "男", "symptoms": ["咳浓痰"], "diagnosis": "肺炎"}
+{"age": 21, "gender": "女", "symptoms": ["部分无症状", "头晕", "头痛", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 64, "gender": "女", "symptoms": ["多尿", "多饮", "多食", "乏力", "视力模糊", "体重减轻"], "diagnosis": "糖尿病"}
+{"age": 59, "gender": "女", "symptoms": ["瘙痒", "水疱", "脱屑", "红肿", "皮疹"], "diagnosis": "皮肤过敏"}
+{"age": 54, "gender": "男", "symptoms": ["畏光", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 37, "gender": "女", "symptoms": ["呕吐", "恶心", "胃痛", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 22, "gender": "女", "symptoms": ["咳浓痰", "高热"], "diagnosis": "肺炎"}
+{"age": 59, "gender": "男", "symptoms": ["多食", "多饮"], "diagnosis": "糖尿病"}
+{"age": 59, "gender": "女", "symptoms": ["畏光", "恶心", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 36, "gender": "男", "symptoms": ["轻微乏力", "咳嗽", "发热", "流鼻涕", "喉咙痛"], "diagnosis": "感冒"}
+{"age": 29, "gender": "男", "symptoms": ["脱屑", "皮疹"], "diagnosis": "皮肤过敏"}
+{"age": 67, "gender": "男", "symptoms": ["头痛", "部分无症状", "心悸", "头晕", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 90, "gender": "女", "symptoms": ["食欲不振", "胃痛", "呕吐", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 43, "gender": "男", "symptoms": ["胸闷", "咳痰", "持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 28, "gender": "女", "symptoms": ["轻微乏力", "流鼻涕", "喉咙痛", "咳嗽", "头痛", "发热"], "diagnosis": "感冒"}
+{"age": 19, "gender": "女", "symptoms": ["恶心", "畏声", "畏光", "单侧搏动性头痛", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 34, "gender": "女", "symptoms": ["头痛"], "diagnosis": "感冒"}
+{"age": 34, "gender": "女", "symptoms": ["鼻塞", "眼睛痒", "打喷嚏"], "diagnosis": "过敏性鼻炎"}
+{"age": 60, "gender": "女", "symptoms": ["恶心", "畏声", "畏光"], "diagnosis": "偏头痛"}
+{"age": 64, "gender": "女", "symptoms": ["部分无症状", "头晕"], "diagnosis": "高血压"}
+{"age": 90, "gender": "女", "symptoms": ["头晕", "部分无症状", "心悸", "颈项板紧", "头痛"], "diagnosis": "高血压"}
+{"age": 60, "gender": "男", "symptoms": ["眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 25, "gender": "男", "symptoms": ["乏力", "体重减轻", "多饮", "视力模糊", "多食"], "diagnosis": "糖尿病"}
+{"age": 43, "gender": "女", "symptoms": ["咳嗽", "发热", "轻微乏力", "流鼻涕"], "diagnosis": "感冒"}
+{"age": 87, "gender": "男", "symptoms": ["打喷嚏", "眼睛痒", "鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 65, "gender": "男", "symptoms": ["多尿", "体重减轻"], "diagnosis": "糖尿病"}
+{"age": 51, "gender": "女", "symptoms": ["腹胀", "恶心", "呕吐", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 76, "gender": "男", "symptoms": ["畏光", "畏声", "呕吐", "恶心", "单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 37, "gender": "男", "symptoms": ["单侧搏动性头痛", "呕吐", "畏声"], "diagnosis": "偏头痛"}
+{"age": 59, "gender": "男", "symptoms": ["咳痰"], "diagnosis": "支气管炎"}
+{"age": 37, "gender": "女", "symptoms": ["多食"], "diagnosis": "糖尿病"}
+{"age": 73, "gender": "男", "symptoms": ["部分无症状", "颈项板紧", "头晕", "心悸", "头痛"], "diagnosis": "高血压"}
+{"age": 20, "gender": "女", "symptoms": ["流鼻涕", "头痛", "喉咙痛", "发热"], "diagnosis": "感冒"}
+{"age": 28, "gender": "男", "symptoms": ["胃痛", "食欲不振", "腹胀", "恶心", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 10, "gender": "女", "symptoms": ["腹胀", "恶心", "胃痛", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 9, "gender": "男", "symptoms": ["流鼻涕", "喉咙痛"], "diagnosis": "感冒"}
+{"age": 76, "gender": "女", "symptoms": ["胃痛", "食欲不振", "腹胀", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 28, "gender": "女", "symptoms": ["食欲不振", "腹胀", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 28, "gender": "女", "symptoms": ["食欲不振", "胃痛", "腹胀"], "diagnosis": "急性胃炎"}
+{"age": 38, "gender": "女", "symptoms": ["喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 26, "gender": "女", "symptoms": ["鼻子痒", "鼻塞", "眼睛痒", "流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 68, "gender": "女", "symptoms": ["严重咳嗽", "高热", "寒战", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 13, "gender": "女", "symptoms": ["喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 41, "gender": "男", "symptoms": ["胸痛"], "diagnosis": "肺炎"}
+{"age": 25, "gender": "女", "symptoms": ["喉咙痛"], "diagnosis": "感冒"}
+{"age": 26, "gender": "女", "symptoms": ["咳嗽", "流鼻涕", "轻微乏力", "头痛"], "diagnosis": "感冒"}
+{"age": 34, "gender": "女", "symptoms": ["呕吐"], "diagnosis": "偏头痛"}
+{"age": 22, "gender": "男", "symptoms": ["鼻塞", "鼻子痒", "眼睛痒", "打喷嚏"], "diagnosis": "过敏性鼻炎"}
+{"age": 21, "gender": "男", "symptoms": ["多尿", "体重减轻", "多饮", "多食", "视力模糊", "乏力"], "diagnosis": "糖尿病"}
+{"age": 30, "gender": "男", "symptoms": ["畏声", "呕吐", "单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 60, "gender": "男", "symptoms": ["畏声"], "diagnosis": "偏头痛"}
+{"age": 64, "gender": "男", "symptoms": ["发热", "轻微乏力", "咳嗽", "头痛", "喉咙痛"], "diagnosis": "感冒"}
+{"age": 90, "gender": "女", "symptoms": ["呕吐", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 57, "gender": "男", "symptoms": ["鼻塞", "流鼻涕", "鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 28, "gender": "男", "symptoms": ["鼻子痒", "流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 25, "gender": "男", "symptoms": ["多饮", "多尿", "体重减轻", "多食", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 6, "gender": "女", "symptoms": ["呕吐", "单侧搏动性头痛", "畏声"], "diagnosis": "偏头痛"}
+{"age": 83, "gender": "男", "symptoms": ["多尿", "体重减轻", "乏力", "多食"], "diagnosis": "糖尿病"}
+{"age": 7, "gender": "女", "symptoms": ["气喘", "胸闷"], "diagnosis": "支气管炎"}
+{"age": 11, "gender": "女", "symptoms": ["胃痛", "恶心", "腹胀", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 81, "gender": "女", "symptoms": ["高热", "胸痛", "呼吸困难", "寒战"], "diagnosis": "肺炎"}
+{"age": 35, "gender": "女", "symptoms": ["畏光", "呕吐", "恶心", "畏声", "单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 33, "gender": "女", "symptoms": ["严重乏力", "咳嗽", "高热", "肌肉酸痛", "寒战"], "diagnosis": "流感"}
+{"age": 17, "gender": "女", "symptoms": ["呼吸困难", "寒战", "咳浓痰", "胸痛"], "diagnosis": "肺炎"}
+{"age": 84, "gender": "女", "symptoms": ["脱屑", "瘙痒", "水疱", "皮疹"], "diagnosis": "皮肤过敏"}
+{"age": 58, "gender": "男", "symptoms": ["恶心"], "diagnosis": "偏头痛"}
+{"age": 28, "gender": "男", "symptoms": ["畏光"], "diagnosis": "偏头痛"}
+{"age": 36, "gender": "男", "symptoms": ["胸痛", "高热", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 30, "gender": "女", "symptoms": ["呕吐"], "diagnosis": "偏头痛"}
+{"age": 62, "gender": "男", "symptoms": ["畏光", "恶心", "单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 69, "gender": "女", "symptoms": ["打喷嚏", "鼻塞", "鼻子痒", "眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 39, "gender": "男", "symptoms": ["轻微乏力", "发热", "流鼻涕", "咳嗽", "头痛", "喉咙痛"], "diagnosis": "感冒"}
+{"age": 68, "gender": "女", "symptoms": ["眼睛痒", "鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 46, "gender": "男", "symptoms": ["头晕", "头痛"], "diagnosis": "高血压"}
+{"age": 62, "gender": "女", "symptoms": ["咳嗽", "轻微乏力", "头痛", "流鼻涕", "发热"], "diagnosis": "感冒"}
+{"age": 36, "gender": "女", "symptoms": ["多食", "视力模糊", "体重减轻", "多饮"], "diagnosis": "糖尿病"}
+{"age": 83, "gender": "男", "symptoms": ["单侧搏动性头痛", "畏声"], "diagnosis": "偏头痛"}
+{"age": 40, "gender": "男", "symptoms": ["瘙痒"], "diagnosis": "皮肤过敏"}
+{"age": 38, "gender": "男", "symptoms": ["乏力", "体重减轻", "多尿", "视力模糊", "多饮"], "diagnosis": "糖尿病"}
+{"age": 36, "gender": "女", "symptoms": ["呼吸困难"], "diagnosis": "肺炎"}
+{"age": 89, "gender": "女", "symptoms": ["胃痛", "食欲不振", "恶心", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 1, "gender": "女", "symptoms": ["气喘", "咳痰", "胸闷"], "diagnosis": "支气管炎"}
+{"age": 46, "gender": "女", "symptoms": ["胸痛", "咳浓痰", "严重咳嗽", "高热", "寒战"], "diagnosis": "肺炎"}
+{"age": 82, "gender": "女", "symptoms": ["胸痛", "呼吸困难", "高热", "寒战", "严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 18, "gender": "男", "symptoms": ["多尿", "多食", "体重减轻", "多饮", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 22, "gender": "女", "symptoms": ["喉咙不适", "咳痰"], "diagnosis": "支气管炎"}
+{"age": 79, "gender": "女", "symptoms": ["呕吐", "畏声", "畏光"], "diagnosis": "偏头痛"}
+{"age": 26, "gender": "女", "symptoms": ["严重咳嗽", "咳浓痰", "寒战", "胸痛", "高热", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 50, "gender": "男", "symptoms": ["恶心", "腹胀", "胃痛", "呕吐", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 16, "gender": "男", "symptoms": ["视力模糊", "多食", "乏力", "体重减轻", "多饮"], "diagnosis": "糖尿病"}
+{"age": 28, "gender": "女", "symptoms": ["鼻子痒", "打喷嚏", "流鼻涕", "眼睛痒", "鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 66, "gender": "男", "symptoms": ["食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 82, "gender": "女", "symptoms": ["食欲不振", "恶心", "呕吐", "腹胀"], "diagnosis": "急性胃炎"}
+{"age": 5, "gender": "女", "symptoms": ["心悸", "头晕", "部分无症状", "颈项板紧", "头痛"], "diagnosis": "高血压"}
+{"age": 87, "gender": "男", "symptoms": ["畏光", "单侧搏动性头痛", "畏声"], "diagnosis": "偏头痛"}
+{"age": 43, "gender": "男", "symptoms": ["腹胀", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 79, "gender": "男", "symptoms": ["呕吐"], "diagnosis": "偏头痛"}
+{"age": 16, "gender": "女", "symptoms": ["畏光", "单侧搏动性头痛", "畏声", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 38, "gender": "女", "symptoms": ["眼睛痒", "鼻塞", "鼻子痒", "流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 38, "gender": "女", "symptoms": ["部分无症状", "头晕", "头痛", "颈项板紧", "心悸"], "diagnosis": "高血压"}
+{"age": 14, "gender": "女", "symptoms": ["呕吐", "腹胀", "恶心"], "diagnosis": "急性胃炎"}
+{"age": 63, "gender": "女", "symptoms": ["咳痰", "胸闷", "气喘", "持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 10, "gender": "男", "symptoms": ["心悸", "部分无症状", "头痛", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 36, "gender": "男", "symptoms": ["头痛", "咳嗽", "肌肉酸痛", "严重乏力"], "diagnosis": "流感"}
+{"age": 11, "gender": "女", "symptoms": ["眼睛痒", "打喷嚏", "鼻子痒", "鼻塞", "流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 28, "gender": "女", "symptoms": ["寒战", "高热", "肌肉酸痛", "头痛"], "diagnosis": "流感"}
+{"age": 48, "gender": "男", "symptoms": ["脱屑", "水疱", "瘙痒", "皮疹", "红肿"], "diagnosis": "皮肤过敏"}
+{"age": 61, "gender": "女", "symptoms": ["脱屑", "瘙痒"], "diagnosis": "皮肤过敏"}
+{"age": 64, "gender": "女", "symptoms": ["严重乏力", "肌肉酸痛", "寒战", "高热"], "diagnosis": "流感"}
+{"age": 9, "gender": "男", "symptoms": ["脱屑", "水疱", "红肿", "瘙痒", "皮疹"], "diagnosis": "皮肤过敏"}
+{"age": 62, "gender": "女", "symptoms": ["视力模糊", "多饮", "多尿", "体重减轻", "多食", "乏力"], "diagnosis": "糖尿病"}
+{"age": 49, "gender": "男", "symptoms": ["乏力", "多饮", "视力模糊", "多尿", "体重减轻"], "diagnosis": "糖尿病"}
+{"age": 82, "gender": "女", "symptoms": ["高热", "呼吸困难", "寒战", "咳浓痰"], "diagnosis": "肺炎"}
+{"age": 73, "gender": "男", "symptoms": ["食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 22, "gender": "女", "symptoms": ["红肿", "皮疹", "瘙痒"], "diagnosis": "皮肤过敏"}
+{"age": 58, "gender": "女", "symptoms": ["咳嗽"], "diagnosis": "流感"}
+{"age": 33, "gender": "女", "symptoms": ["严重乏力", "寒战", "咳嗽", "肌肉酸痛"], "diagnosis": "流感"}
+{"age": 42, "gender": "女", "symptoms": ["咳浓痰", "高热", "严重咳嗽", "寒战", "呼吸困难", "胸痛"], "diagnosis": "肺炎"}
+{"age": 14, "gender": "女", "symptoms": ["畏声"], "diagnosis": "偏头痛"}
+{"age": 7, "gender": "女", "symptoms": ["鼻子痒", "流鼻涕", "打喷嚏", "鼻塞", "眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 11, "gender": "男", "symptoms": ["打喷嚏"], "diagnosis": "过敏性鼻炎"}
+{"age": 62, "gender": "男", "symptoms": ["流鼻涕", "喉咙痛"], "diagnosis": "感冒"}
+{"age": 14, "gender": "男", "symptoms": ["严重乏力"], "diagnosis": "流感"}
+{"age": 57, "gender": "男", "symptoms": ["腹胀", "胃痛", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 73, "gender": "女", "symptoms": ["恶心", "呕吐", "单侧搏动性头痛", "畏声"], "diagnosis": "偏头痛"}
+{"age": 8, "gender": "女", "symptoms": ["咳嗽", "头痛", "高热", "肌肉酸痛"], "diagnosis": "流感"}
+{"age": 85, "gender": "女", "symptoms": ["脱屑"], "diagnosis": "皮肤过敏"}
+{"age": 29, "gender": "女", "symptoms": ["头晕", "部分无症状", "心悸", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 86, "gender": "男", "symptoms": ["腹胀", "食欲不振", "恶心", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 5, "gender": "女", "symptoms": ["食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 30, "gender": "女", "symptoms": ["眼睛痒", "打喷嚏"], "diagnosis": "过敏性鼻炎"}
+{"age": 54, "gender": "女", "symptoms": ["持续咳嗽", "气喘", "喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 1, "gender": "女", "symptoms": ["畏光"], "diagnosis": "偏头痛"}
+{"age": 86, "gender": "男", "symptoms": ["红肿", "皮疹", "脱屑", "水疱", "瘙痒"], "diagnosis": "皮肤过敏"}
+{"age": 55, "gender": "女", "symptoms": ["畏声"], "diagnosis": "偏头痛"}
+{"age": 16, "gender": "女", "symptoms": ["呕吐"], "diagnosis": "急性胃炎"}
+{"age": 53, "gender": "女", "symptoms": ["高热"], "diagnosis": "肺炎"}
+{"age": 68, "gender": "女", "symptoms": ["寒战", "胸痛", "咳浓痰", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 10, "gender": "男", "symptoms": ["寒战", "严重乏力", "肌肉酸痛", "高热", "头痛", "咳嗽"], "diagnosis": "流感"}
+{"age": 78, "gender": "男", "symptoms": ["视力模糊", "多尿", "多饮", "体重减轻", "多食", "乏力"], "diagnosis": "糖尿病"}
+{"age": 32, "gender": "女", "symptoms": ["体重减轻"], "diagnosis": "糖尿病"}
+{"age": 74, "gender": "女", "symptoms": ["咳痰"], "diagnosis": "支气管炎"}
+{"age": 25, "gender": "女", "symptoms": ["严重乏力"], "diagnosis": "流感"}
+{"age": 47, "gender": "女", "symptoms": ["部分无症状", "心悸", "头晕"], "diagnosis": "高血压"}
+{"age": 57, "gender": "男", "symptoms": ["咳嗽", "寒战", "肌肉酸痛", "严重乏力", "高热"], "diagnosis": "流感"}
+{"age": 39, "gender": "男", "symptoms": ["严重乏力", "肌肉酸痛", "咳嗽"], "diagnosis": "流感"}
+{"age": 55, "gender": "男", "symptoms": ["严重咳嗽", "呼吸困难", "胸痛"], "diagnosis": "肺炎"}
+{"age": 90, "gender": "女", "symptoms": ["寒战"], "diagnosis": "肺炎"}
+{"age": 34, "gender": "女", "symptoms": ["持续咳嗽", "气喘", "喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 51, "gender": "男", "symptoms": ["畏光", "单侧搏动性头痛", "恶心", "畏声"], "diagnosis": "偏头痛"}
+{"age": 70, "gender": "女", "symptoms": ["呕吐"], "diagnosis": "急性胃炎"}
+{"age": 11, "gender": "男", "symptoms": ["部分无症状"], "diagnosis": "高血压"}
+{"age": 46, "gender": "男", "symptoms": ["咳嗽", "轻微乏力", "发热"], "diagnosis": "感冒"}
+{"age": 61, "gender": "女", "symptoms": ["胃痛", "呕吐", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 4, "gender": "男", "symptoms": ["部分无症状", "心悸", "头晕"], "diagnosis": "高血压"}
+{"age": 12, "gender": "男", "symptoms": ["部分无症状", "心悸", "头痛", "头晕"], "diagnosis": "高血压"}
+{"age": 21, "gender": "男", "symptoms": ["单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 79, "gender": "男", "symptoms": ["鼻塞", "流鼻涕", "打喷嚏", "眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 44, "gender": "男", "symptoms": ["呕吐"], "diagnosis": "急性胃炎"}
+{"age": 70, "gender": "男", "symptoms": ["发热", "流鼻涕"], "diagnosis": "感冒"}
+{"age": 65, "gender": "男", "symptoms": ["头痛", "肌肉酸痛", "严重乏力"], "diagnosis": "流感"}
+{"age": 41, "gender": "男", "symptoms": ["头晕", "头痛", "颈项板紧", "心悸"], "diagnosis": "高血压"}
+{"age": 52, "gender": "女", "symptoms": ["红肿"], "diagnosis": "皮肤过敏"}
+{"age": 40, "gender": "男", "symptoms": ["恶心", "单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 69, "gender": "男", "symptoms": ["咳嗽", "发热"], "diagnosis": "感冒"}
+{"age": 37, "gender": "女", "symptoms": ["持续咳嗽", "胸闷", "气喘"], "diagnosis": "支气管炎"}
+{"age": 3, "gender": "女", "symptoms": ["轻微乏力", "流鼻涕"], "diagnosis": "感冒"}
+{"age": 16, "gender": "女", "symptoms": ["红肿", "瘙痒", "脱屑", "皮疹"], "diagnosis": "皮肤过敏"}
+{"age": 54, "gender": "男", "symptoms": ["咳嗽", "头痛", "流鼻涕"], "diagnosis": "感冒"}
+{"age": 47, "gender": "男", "symptoms": ["红肿"], "diagnosis": "皮肤过敏"}
+{"age": 82, "gender": "男", "symptoms": ["高热", "咳嗽", "头痛", "寒战", "严重乏力"], "diagnosis": "流感"}
+{"age": 79, "gender": "男", "symptoms": ["视力模糊", "多食", "多尿", "多饮", "乏力", "体重减轻"], "diagnosis": "糖尿病"}
+{"age": 84, "gender": "女", "symptoms": ["严重乏力"], "diagnosis": "流感"}
+{"age": 74, "gender": "男", "symptoms": ["严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 68, "gender": "男", "symptoms": ["乏力"], "diagnosis": "糖尿病"}
+{"age": 19, "gender": "男", "symptoms": ["水疱", "瘙痒"], "diagnosis": "皮肤过敏"}
+{"age": 6, "gender": "女", "symptoms": ["部分无症状", "头晕", "心悸"], "diagnosis": "高血压"}
+{"age": 19, "gender": "女", "symptoms": ["咳浓痰", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 37, "gender": "女", "symptoms": ["打喷嚏"], "diagnosis": "过敏性鼻炎"}
+{"age": 36, "gender": "男", "symptoms": ["流鼻涕", "轻微乏力"], "diagnosis": "感冒"}
+{"age": 48, "gender": "男", "symptoms": ["胸闷", "喉咙不适", "咳痰", "持续咳嗽", "气喘"], "diagnosis": "支气管炎"}
+{"age": 90, "gender": "女", "symptoms": ["心悸", "部分无症状", "头晕", "头痛"], "diagnosis": "高血压"}
+{"age": 61, "gender": "女", "symptoms": ["胸闷"], "diagnosis": "支气管炎"}
+{"age": 8, "gender": "男", "symptoms": ["红肿"], "diagnosis": "皮肤过敏"}
+{"age": 33, "gender": "男", "symptoms": ["寒战", "高热", "严重乏力", "肌肉酸痛", "头痛"], "diagnosis": "流感"}
+{"age": 60, "gender": "男", "symptoms": ["咳痰", "胸闷"], "diagnosis": "支气管炎"}
+{"age": 16, "gender": "男", "symptoms": ["严重咳嗽", "呼吸困难", "寒战", "高热", "胸痛", "咳浓痰"], "diagnosis": "肺炎"}
+{"age": 32, "gender": "男", "symptoms": ["畏声", "单侧搏动性头痛", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 51, "gender": "男", "symptoms": ["体重减轻"], "diagnosis": "糖尿病"}
+{"age": 32, "gender": "女", "symptoms": ["皮疹", "水疱"], "diagnosis": "皮肤过敏"}
+{"age": 71, "gender": "女", "symptoms": ["恶心", "腹胀", "呕吐", "胃痛", "食欲不振"], "diagnosis": "急性胃炎"}
+{"age": 57, "gender": "男", "symptoms": ["咳嗽", "头痛", "轻微乏力", "喉咙痛", "流鼻涕"], "diagnosis": "感冒"}
+{"age": 16, "gender": "男", "symptoms": ["严重乏力", "寒战", "肌肉酸痛", "咳嗽", "高热", "头痛"], "diagnosis": "流感"}
+{"age": 37, "gender": "男", "symptoms": ["视力模糊", "体重减轻", "多尿", "乏力", "多食"], "diagnosis": "糖尿病"}
+{"age": 8, "gender": "男", "symptoms": ["严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 39, "gender": "女", "symptoms": ["严重乏力", "咳嗽", "高热"], "diagnosis": "流感"}
+{"age": 46, "gender": "男", "symptoms": ["流鼻涕", "打喷嚏", "鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 3, "gender": "女", "symptoms": ["寒战", "严重咳嗽", "高热", "胸痛", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 88, "gender": "男", "symptoms": ["发热"], "diagnosis": "感冒"}
+{"age": 32, "gender": "男", "symptoms": ["多食"], "diagnosis": "糖尿病"}
+{"age": 6, "gender": "女", "symptoms": ["部分无症状"], "diagnosis": "高血压"}
+{"age": 10, "gender": "女", "symptoms": ["头痛", "高热", "严重乏力", "肌肉酸痛", "寒战", "咳嗽"], "diagnosis": "流感"}
+{"age": 17, "gender": "女", "symptoms": ["胃痛", "食欲不振", "恶心", "腹胀", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 24, "gender": "女", "symptoms": ["眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 28, "gender": "男", "symptoms": ["心悸"], "diagnosis": "高血压"}
+{"age": 27, "gender": "女", "symptoms": ["多尿", "多饮", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 50, "gender": "男", "symptoms": ["红肿", "水疱", "瘙痒", "脱屑"], "diagnosis": "皮肤过敏"}
+{"age": 89, "gender": "男", "symptoms": ["呕吐", "单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 20, "gender": "男", "symptoms": ["恶心", "单侧搏动性头痛", "畏光", "畏声"], "diagnosis": "偏头痛"}
+{"age": 77, "gender": "女", "symptoms": ["皮疹", "脱屑", "红肿"], "diagnosis": "皮肤过敏"}
+{"age": 64, "gender": "女", "symptoms": ["咳嗽", "高热", "严重乏力", "寒战", "头痛"], "diagnosis": "流感"}
+{"age": 21, "gender": "男", "symptoms": ["气喘", "咳痰", "持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 24, "gender": "女", "symptoms": ["气喘", "咳痰", "持续咳嗽", "喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 63, "gender": "男", "symptoms": ["喉咙不适", "持续咳嗽", "胸闷", "气喘", "咳痰"], "diagnosis": "支气管炎"}
+{"age": 56, "gender": "女", "symptoms": ["红肿", "脱屑", "瘙痒", "水疱", "皮疹"], "diagnosis": "皮肤过敏"}
+{"age": 48, "gender": "男", "symptoms": ["瘙痒", "脱屑", "皮疹", "水疱", "红肿"], "diagnosis": "皮肤过敏"}
+{"age": 86, "gender": "男", "symptoms": ["喉咙不适", "持续咳嗽", "咳痰", "气喘", "胸闷"], "diagnosis": "支气管炎"}
+{"age": 74, "gender": "男", "symptoms": ["胃痛"], "diagnosis": "急性胃炎"}
+{"age": 86, "gender": "男", "symptoms": ["咳浓痰", "高热"], "diagnosis": "肺炎"}
+{"age": 25, "gender": "女", "symptoms": ["眼睛痒", "打喷嚏", "鼻子痒", "鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 69, "gender": "女", "symptoms": ["头晕"], "diagnosis": "高血压"}
+{"age": 15, "gender": "女", "symptoms": ["头晕", "部分无症状"], "diagnosis": "高血压"}
+{"age": 36, "gender": "男", "symptoms": ["红肿", "瘙痒", "皮疹", "水疱"], "diagnosis": "皮肤过敏"}
+{"age": 71, "gender": "女", "symptoms": ["肌肉酸痛", "寒战", "咳嗽", "头痛", "高热"], "diagnosis": "流感"}
+{"age": 58, "gender": "女", "symptoms": ["呕吐", "单侧搏动性头痛", "畏光"], "diagnosis": "偏头痛"}
+{"age": 64, "gender": "男", "symptoms": ["呼吸困难", "胸痛"], "diagnosis": "肺炎"}
+{"age": 34, "gender": "女", "symptoms": ["鼻塞", "打喷嚏", "眼睛痒", "流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 85, "gender": "男", "symptoms": ["胸痛", "严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 80, "gender": "女", "symptoms": ["头痛", "部分无症状"], "diagnosis": "高血压"}
+{"age": 20, "gender": "女", "symptoms": ["乏力", "多食", "多尿", "视力模糊", "多饮"], "diagnosis": "糖尿病"}
+{"age": 87, "gender": "男", "symptoms": ["头痛", "严重乏力", "肌肉酸痛", "寒战", "高热", "咳嗽"], "diagnosis": "流感"}
+{"age": 22, "gender": "女", "symptoms": ["恶心", "单侧搏动性头痛", "呕吐", "畏声", "畏光"], "diagnosis": "偏头痛"}
+{"age": 53, "gender": "男", "symptoms": ["气喘", "胸闷", "持续咳嗽", "喉咙不适", "咳痰"], "diagnosis": "支气管炎"}
+{"age": 1, "gender": "女", "symptoms": ["胃痛"], "diagnosis": "急性胃炎"}
+{"age": 84, "gender": "女", "symptoms": ["持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 52, "gender": "女", "symptoms": ["高热", "胸痛", "咳浓痰", "严重咳嗽", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 78, "gender": "男", "symptoms": ["打喷嚏", "流鼻涕", "鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 47, "gender": "女", "symptoms": ["头痛", "高热", "肌肉酸痛"], "diagnosis": "流感"}
+{"age": 69, "gender": "女", "symptoms": ["皮疹", "水疱", "红肿", "脱屑", "瘙痒"], "diagnosis": "皮肤过敏"}
+{"age": 80, "gender": "男", "symptoms": ["眼睛痒", "打喷嚏"], "diagnosis": "过敏性鼻炎"}
+{"age": 56, "gender": "男", "symptoms": ["视力模糊", "多尿"], "diagnosis": "糖尿病"}
+{"age": 76, "gender": "女", "symptoms": ["水疱", "皮疹", "红肿"], "diagnosis": "皮肤过敏"}
+{"age": 66, "gender": "女", "symptoms": ["心悸", "头痛", "颈项板紧", "部分无症状", "头晕"], "diagnosis": "高血压"}
+{"age": 87, "gender": "女", "symptoms": ["胃痛", "腹胀"], "diagnosis": "急性胃炎"}
+{"age": 66, "gender": "女", "symptoms": ["腹胀", "恶心", "食欲不振", "呕吐", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 81, "gender": "男", "symptoms": ["乏力"], "diagnosis": "糖尿病"}
+{"age": 52, "gender": "男", "symptoms": ["打喷嚏"], "diagnosis": "过敏性鼻炎"}
+{"age": 88, "gender": "男", "symptoms": ["乏力"], "diagnosis": "糖尿病"}
+{"age": 81, "gender": "女", "symptoms": ["气喘", "咳痰"], "diagnosis": "支气管炎"}
+{"age": 2, "gender": "男", "symptoms": ["畏声", "呕吐", "单侧搏动性头痛", "畏光", "恶心"], "diagnosis": "偏头痛"}
+{"age": 18, "gender": "女", "symptoms": ["畏声", "单侧搏动性头痛", "恶心", "呕吐", "畏光"], "diagnosis": "偏头痛"}
+{"age": 67, "gender": "男", "symptoms": ["鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 23, "gender": "男", "symptoms": ["胃痛", "腹胀"], "diagnosis": "急性胃炎"}
+{"age": 59, "gender": "女", "symptoms": ["瘙痒", "皮疹", "水疱", "红肿"], "diagnosis": "皮肤过敏"}
+{"age": 55, "gender": "男", "symptoms": ["持续咳嗽", "气喘", "胸闷", "咳痰"], "diagnosis": "支气管炎"}
+{"age": 47, "gender": "女", "symptoms": ["高热", "头痛", "寒战", "严重乏力", "咳嗽", "肌肉酸痛"], "diagnosis": "流感"}
+{"age": 29, "gender": "男", "symptoms": ["鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 85, "gender": "女", "symptoms": ["肌肉酸痛", "头痛", "寒战", "严重乏力", "高热", "咳嗽"], "diagnosis": "流感"}
+{"age": 6, "gender": "男", "symptoms": ["颈项板紧", "头痛"], "diagnosis": "高血压"}
+{"age": 17, "gender": "男", "symptoms": ["咳浓痰", "寒战", "高热", "呼吸困难", "胸痛"], "diagnosis": "肺炎"}
+{"age": 63, "gender": "女", "symptoms": ["头晕", "颈项板紧", "头痛", "部分无症状", "心悸"], "diagnosis": "高血压"}
+{"age": 77, "gender": "女", "symptoms": ["流鼻涕", "头痛"], "diagnosis": "感冒"}
+{"age": 57, "gender": "男", "symptoms": ["瘙痒", "皮疹", "脱屑"], "diagnosis": "皮肤过敏"}
+{"age": 59, "gender": "男", "symptoms": ["胸闷", "咳痰", "持续咳嗽", "气喘"], "diagnosis": "支气管炎"}
+{"age": 83, "gender": "女", "symptoms": ["气喘"], "diagnosis": "支气管炎"}
+{"age": 15, "gender": "男", "symptoms": ["喉咙痛", "发热"], "diagnosis": "感冒"}
+{"age": 78, "gender": "男", "symptoms": ["红肿", "脱屑", "皮疹", "瘙痒", "水疱"], "diagnosis": "皮肤过敏"}
+{"age": 54, "gender": "男", "symptoms": ["持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 75, "gender": "女", "symptoms": ["眼睛痒", "鼻塞"], "diagnosis": "过敏性鼻炎"}
+{"age": 2, "gender": "男", "symptoms": ["咳痰", "喉咙不适", "气喘"], "diagnosis": "支气管炎"}
+{"age": 63, "gender": "男", "symptoms": ["心悸", "头痛", "颈项板紧", "头晕", "部分无症状"], "diagnosis": "高血压"}
+{"age": 81, "gender": "女", "symptoms": ["呕吐", "恶心", "畏光", "畏声"], "diagnosis": "偏头痛"}
+{"age": 64, "gender": "女", "symptoms": ["严重乏力", "咳嗽", "寒战", "头痛", "高热", "肌肉酸痛"], "diagnosis": "流感"}
+{"age": 72, "gender": "女", "symptoms": ["畏光", "呕吐", "单侧搏动性头痛", "恶心", "畏声"], "diagnosis": "偏头痛"}
+{"age": 86, "gender": "男", "symptoms": ["多尿", "体重减轻"], "diagnosis": "糖尿病"}
+{"age": 54, "gender": "男", "symptoms": ["多食", "多尿", "体重减轻", "视力模糊", "乏力"], "diagnosis": "糖尿病"}
+{"age": 6, "gender": "女", "symptoms": ["腹胀", "恶心", "食欲不振", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 8, "gender": "女", "symptoms": ["心悸"], "diagnosis": "高血压"}
+{"age": 14, "gender": "男", "symptoms": ["胸闷", "气喘", "喉咙不适"], "diagnosis": "支气管炎"}
+{"age": 4, "gender": "女", "symptoms": ["单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 83, "gender": "男", "symptoms": ["部分无症状", "心悸", "头痛", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 32, "gender": "女", "symptoms": ["乏力", "视力模糊", "体重减轻", "多饮"], "diagnosis": "糖尿病"}
+{"age": 71, "gender": "女", "symptoms": ["喉咙不适", "气喘"], "diagnosis": "支气管炎"}
+{"age": 90, "gender": "女", "symptoms": ["食欲不振", "恶心", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 83, "gender": "男", "symptoms": ["喉咙痛"], "diagnosis": "感冒"}
+{"age": 52, "gender": "男", "symptoms": ["恶心", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 77, "gender": "女", "symptoms": ["流鼻涕", "喉咙痛", "咳嗽", "轻微乏力", "发热", "头痛"], "diagnosis": "感冒"}
+{"age": 70, "gender": "女", "symptoms": ["高热", "咳嗽"], "diagnosis": "流感"}
+{"age": 39, "gender": "女", "symptoms": ["畏声", "呕吐", "单侧搏动性头痛", "畏光"], "diagnosis": "偏头痛"}
+{"age": 4, "gender": "女", "symptoms": ["恶心", "单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 22, "gender": "男", "symptoms": ["乏力", "多饮", "多食", "视力模糊", "多尿", "体重减轻"], "diagnosis": "糖尿病"}
+{"age": 47, "gender": "男", "symptoms": ["肌肉酸痛"], "diagnosis": "流感"}
+{"age": 72, "gender": "女", "symptoms": ["心悸", "部分无症状", "颈项板紧", "头晕"], "diagnosis": "高血压"}
+{"age": 80, "gender": "男", "symptoms": ["畏声", "单侧搏动性头痛", "呕吐", "畏光", "恶心"], "diagnosis": "偏头痛"}
+{"age": 76, "gender": "男", "symptoms": ["头晕", "头痛", "颈项板紧"], "diagnosis": "高血压"}
+{"age": 46, "gender": "男", "symptoms": ["头晕", "头痛", "心悸"], "diagnosis": "高血压"}
+{"age": 47, "gender": "男", "symptoms": ["颈项板紧", "部分无症状", "头痛", "头晕"], "diagnosis": "高血压"}
+{"age": 49, "gender": "男", "symptoms": ["咳浓痰", "寒战", "严重咳嗽"], "diagnosis": "肺炎"}
+{"age": 90, "gender": "男", "symptoms": ["红肿", "皮疹"], "diagnosis": "皮肤过敏"}
+{"age": 33, "gender": "男", "symptoms": ["水疱", "红肿", "皮疹"], "diagnosis": "皮肤过敏"}
+{"age": 17, "gender": "女", "symptoms": ["恶心", "单侧搏动性头痛", "畏光", "畏声"], "diagnosis": "偏头痛"}
+{"age": 32, "gender": "男", "symptoms": ["食欲不振", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 69, "gender": "男", "symptoms": ["轻微乏力"], "diagnosis": "感冒"}
+{"age": 52, "gender": "女", "symptoms": ["呕吐", "畏声", "畏光", "单侧搏动性头痛"], "diagnosis": "偏头痛"}
+{"age": 80, "gender": "女", "symptoms": ["咳浓痰", "寒战", "高热", "严重咳嗽", "胸痛", "呼吸困难"], "diagnosis": "肺炎"}
+{"age": 73, "gender": "女", "symptoms": ["食欲不振", "腹胀", "恶心", "胃痛", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 67, "gender": "男", "symptoms": ["体重减轻", "多食", "多尿", "视力模糊", "乏力", "多饮"], "diagnosis": "糖尿病"}
+{"age": 77, "gender": "女", "symptoms": ["视力模糊"], "diagnosis": "糖尿病"}
+{"age": 32, "gender": "女", "symptoms": ["打喷嚏"], "diagnosis": "过敏性鼻炎"}
+{"age": 29, "gender": "男", "symptoms": ["单侧搏动性头痛", "恶心", "畏光", "畏声"], "diagnosis": "偏头痛"}
+{"age": 11, "gender": "男", "symptoms": ["头痛", "流鼻涕"], "diagnosis": "感冒"}
+{"age": 45, "gender": "女", "symptoms": ["乏力", "体重减轻", "多尿", "多饮", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 9, "gender": "女", "symptoms": ["畏光", "呕吐", "恶心", "畏声"], "diagnosis": "偏头痛"}
+{"age": 60, "gender": "男", "symptoms": ["颈项板紧", "头痛", "部分无症状", "头晕"], "diagnosis": "高血压"}
+{"age": 84, "gender": "女", "symptoms": ["多食", "多尿", "视力模糊"], "diagnosis": "糖尿病"}
+{"age": 21, "gender": "男", "symptoms": ["咳痰"], "diagnosis": "支气管炎"}
+{"age": 90, "gender": "女", "symptoms": ["咳浓痰", "严重咳嗽", "寒战", "高热", "胸痛"], "diagnosis": "肺炎"}
+{"age": 82, "gender": "男", "symptoms": ["恶心", "呕吐", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 10, "gender": "女", "symptoms": ["腹胀", "呕吐"], "diagnosis": "急性胃炎"}
+{"age": 77, "gender": "女", "symptoms": ["持续咳嗽", "咳痰", "喉咙不适", "气喘"], "diagnosis": "支气管炎"}
+{"age": 49, "gender": "女", "symptoms": ["眼睛痒", "鼻塞", "流鼻涕", "鼻子痒", "打喷嚏"], "diagnosis": "过敏性鼻炎"}
+{"age": 86, "gender": "女", "symptoms": ["胸闷", "持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 13, "gender": "男", "symptoms": ["部分无症状"], "diagnosis": "高血压"}
+{"age": 42, "gender": "女", "symptoms": ["视力模糊", "多食"], "diagnosis": "糖尿病"}
+{"age": 85, "gender": "男", "symptoms": ["呕吐"], "diagnosis": "急性胃炎"}
+{"age": 20, "gender": "女", "symptoms": ["皮疹"], "diagnosis": "皮肤过敏"}
+{"age": 89, "gender": "女", "symptoms": ["持续咳嗽"], "diagnosis": "支气管炎"}
+{"age": 47, "gender": "男", "symptoms": ["肌肉酸痛", "高热", "头痛", "严重乏力"], "diagnosis": "流感"}
+{"age": 86, "gender": "男", "symptoms": ["打喷嚏", "鼻塞", "眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 64, "gender": "男", "symptoms": ["眼睛痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 3, "gender": "女", "symptoms": ["寒战", "咳嗽", "高热", "肌肉酸痛", "严重乏力"], "diagnosis": "流感"}
+{"age": 77, "gender": "女", "symptoms": ["流鼻涕", "头痛", "喉咙痛", "发热", "咳嗽"], "diagnosis": "感冒"}
+{"age": 30, "gender": "女", "symptoms": ["多饮", "体重减轻", "乏力", "多尿"], "diagnosis": "糖尿病"}
+{"age": 20, "gender": "男", "symptoms": ["流鼻涕"], "diagnosis": "过敏性鼻炎"}
+{"age": 60, "gender": "女", "symptoms": ["呕吐", "胃痛"], "diagnosis": "急性胃炎"}
+{"age": 53, "gender": "男", "symptoms": ["多饮", "视力模糊", "多食", "体重减轻", "多尿", "乏力"], "diagnosis": "糖尿病"}
+{"age": 21, "gender": "女", "symptoms": ["畏声", "单侧搏动性头痛", "恶心"], "diagnosis": "偏头痛"}
+{"age": 55, "gender": "女", "symptoms": ["流鼻涕", "轻微乏力", "发热", "咳嗽", "头痛"], "diagnosis": "感冒"}
+{"age": 60, "gender": "男", "symptoms": ["畏声", "单侧搏动性头痛", "恶心", "呕吐", "畏光"], "diagnosis": "偏头痛"}
+{"age": 36, "gender": "女", "symptoms": ["喉咙不适", "胸闷", "咳痰", "气喘"], "diagnosis": "支气管炎"}
+{"age": 17, "gender": "男", "symptoms": ["恶心"], "diagnosis": "偏头痛"}
+{"age": 87, "gender": "女", "symptoms": ["鼻塞", "打喷嚏"], "diagnosis": "过敏性鼻炎"}
+{"age": 62, "gender": "女", "symptoms": ["乏力", "体重减轻", "多食", "多饮", "视力模糊", "多尿"], "diagnosis": "糖尿病"}
+{"age": 69, "gender": "男", "symptoms": ["流鼻涕", "鼻子痒"], "diagnosis": "过敏性鼻炎"}
+{"age": 33, "gender": "女", "symptoms": ["体重减轻", "乏力", "多尿"], "diagnosis": "糖尿病"}
+{"age": 55, "gender": "女", "symptoms": ["恶心", "畏声", "单侧搏动性头痛", "呕吐"], "diagnosis": "偏头痛"}
+{"age": 27, "gender": "女", "symptoms": ["胃痛", "恶心", "食欲不振", "腹胀", "呕吐"], "diagnosis": "急性胃炎"}
