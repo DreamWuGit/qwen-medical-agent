@@ -1,0 +1,44 @@
+{
+    "questions": [
+        {
+            "question": "What is machine learning?",
+            "answer": "Machine learning is a branch of artificial intelligence that enables computer systems to automatically improve through experience. It learns patterns from data rather than through explicit programming. Machine learning algorithms can identify patterns in data and make decisions or predictions based on these patterns."
+        },
+        {
+            "question": "What is the difference between deep learning and traditional machine learning?",
+            "answer": "Deep learning is a subset of machine learning with key differences: 1. Deep learning uses multiple layers of neural networks that can automatically learn features; 2. Traditional machine learning typically requires manual feature engineering; 3. Deep learning requires large amounts of data and computational resources; 4. Deep learning performs better on complex tasks like image recognition and natural language processing."
+        },
+        {
+            "question": "What is knowledge distillation?",
+            "answer": "Knowledge distillation is a model compression technique that uses a large model (teacher model) to guide a smaller model (student model). The main steps include: 1. Using the teacher model to generate soft labels; 2. The student model learns from both hard labels and soft labels; 3. Adjusting the smoothness of knowledge transfer through temperature parameters. This method can significantly reduce model size while maintaining performance."
+        },
+        {
+            "question": "What is the difference between LoRA and full parameter fine-tuning?",
+            "answer": "The main differences between LoRA and full parameter fine-tuning are: 1. LoRA only trains low-rank matrices with fewer parameters; 2. Full parameter fine-tuning requires training all parameters; 3. LoRA training is faster and uses fewer resources; 4. LoRA can quickly switch between different fine-tuned versions; 5. Full parameter fine-tuning typically performs better but requires more resources."
+        },
+        {
+            "question": "What is attention mechanism?",
+            "answer": "Attention mechanism is a technique in deep learning that allows models to focus on different parts when processing sequential data. Key features include: 1. Dynamic weight allocation; 2. Ability to capture long-range dependencies; 3. Parallel computation capability; 4. Excellent performance in machine translation and text generation tasks."
+        },
+        {
+            "question": "What are the main components of Transformer model?",
+            "answer": "The Transformer model consists of these main components: 1. Multi-head self-attention mechanism; 2. Feed-forward neural networks; 3. Residual connections; 4. Layer normalization; 5. Positional encoding. These components work together to enable effective processing of sequential data."
+        },
+        {
+            "question": "What is model quantization?",
+            "answer": "Model quantization is a model compression technique that reduces model size and speeds up inference by reducing the precision of model parameters. Main methods include: 1. Converting floating-point numbers to fixed-point numbers; 2. Using fewer bits to represent weights; 3. Quantization-aware training; 4. Post-training quantization. Quantization can significantly reduce model size while maintaining performance."
+        },
+        {
+            "question": "How to evaluate language model performance?",
+            "answer": "Main metrics for evaluating language model performance include: 1. Perplexity; 2. BLEU score; 3. ROUGE score; 4. Human evaluation; 5. Task-specific evaluation metrics. Multiple metrics should be considered together, along with practical application scenarios."
+        },
+        {
+            "question": "What is a pre-trained language model?",
+            "answer": "A pre-trained language model is a model trained on large-scale text data that can be used for various downstream tasks. Key features include: 1. Learning general language knowledge from massive data; 2. Adaptability to specific tasks through fine-tuning; 3. Strong language understanding capabilities; 4. Ability to handle multiple natural language processing tasks."
+        },
+        {
+            "question": "How to choose appropriate learning rate?",
+            "answer": "Choosing learning rate should consider: 1. Model size and complexity; 2. Dataset size; 3. Optimizer type; 4. Training stage. General recommendations: 1. Use learning rate warmup; 2. Adopt learning rate decay strategy; 3. Determine optimal learning rate through experiments; 4. Consider using adaptive learning rate optimizers."
+        }
+    ]
+} 
