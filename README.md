@@ -1,66 +1,66 @@
-# Qwen2.5 医疗诊断微调项目
+# Qwen2.5 Medical Diagnosis Fine-tuning Project
 
-这个项目使用 Qwen2.5-0.5B 模型进行医疗诊断的微调训练。模型可以根据患者的年龄、性别和症状进行初步诊断。
+This project uses the Qwen2.5-0.5B model for fine-tuning medical diagnosis. The model can perform preliminary diagnosis based on patient's age, gender, and symptoms.
 
-## 项目结构
+## Project Structure
 
-- `finetune_qwen.py`: 模型微调训练脚本
-- `test_model.py`: 模型测试脚本
-- `reduced_medical_data.jsonl`: 训练数据集
+- `finetune_qwen.py`: Model fine-tuning training script
+- `test_model.py`: Model testing script
+- `reduced_medical_data.jsonl`: Training dataset
 
-## 环境要求
+## Requirements
 
 - Python 3.8+
 - PyTorch
 - Transformers
 - Datasets
 
-## 安装
+## Installation
 
-1. 克隆仓库：
+1. Clone the repository:
 ```bash
-git clone [你的仓库地址]
+git clone [your repository URL]
 ```
 
-2. 创建虚拟环境：
+2. Create a virtual environment:
 ```bash
 python -m venv qwen_env
 source qwen_env/bin/activate  # Linux/Mac
-# 或
+# or
 qwen_env\Scripts\activate  # Windows
 ```
 
-3. 安装依赖：
+3. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-## 使用方法
+## Usage
 
-1. 训练模型：
+1. Train the model:
 ```bash
 python finetune_qwen.py
 ```
 
-2. 测试模型：
+2. Test the model:
 ```bash
 python test_model.py
 ```
 
-## 数据格式
+## Data Format
 
-训练数据格式为 JSONL，每行包含：
+The training data format is JSONL, with each line containing:
 ```json
 {
     "age": 65,
-    "gender": "男",
-    "symptoms": ["胸闷", "气短", "心悸"],
-    "diagnosis": "高血压"
+    "gender": "male",
+    "symptoms": ["chest tightness", "shortness of breath", "palpitations"],
+    "diagnosis": "hypertension"
 }
 ```
 
-## 注意事项
+## Important Notes
 
-- 训练需要较大的计算资源，建议使用 GPU
-- 模型仅用于辅助诊断，不能替代专业医生的诊断
-- 请确保遵守相关法律法规和医疗伦理规范 
+- Training requires significant computational resources, GPU is recommended
+- The model is only for auxiliary diagnosis and cannot replace professional medical diagnosis
+- Please ensure compliance with relevant laws, regulations, and medical ethics guidelines 
